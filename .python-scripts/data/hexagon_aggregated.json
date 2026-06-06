@@ -1,0 +1,8282 @@
+[
+  {
+    "h3_index": "8967412615bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 43,
+    "unique_vehicles": 1,
+    "min_speed": 43,
+    "max_speed": 43
+  },
+  {
+    "h3_index": "8967412cc8fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 68,
+    "unique_vehicles": 1,
+    "min_speed": 68,
+    "max_speed": 68
+  },
+  {
+    "h3_index": "8967412e2dbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 8,
+    "unique_vehicles": 1,
+    "min_speed": 8,
+    "max_speed": 8
+  },
+  {
+    "h3_index": "89674c5b62fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 63,
+    "unique_vehicles": 1,
+    "min_speed": 63,
+    "max_speed": 63
+  },
+  {
+    "h3_index": "89674127683ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 23,
+    "unique_vehicles": 1,
+    "min_speed": 23,
+    "max_speed": 23
+  },
+  {
+    "h3_index": "8967412dcb3ffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 47,
+    "unique_vehicles": 2,
+    "min_speed": 29,
+    "max_speed": 65
+  },
+  {
+    "h3_index": "89674c5b06bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 28,
+    "unique_vehicles": 1,
+    "min_speed": 28,
+    "max_speed": 28
+  },
+  {
+    "h3_index": "8967412eb9bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 73,
+    "unique_vehicles": 1,
+    "min_speed": 73,
+    "max_speed": 73
+  },
+  {
+    "h3_index": "89674120b37ffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 62.5,
+    "unique_vehicles": 2,
+    "min_speed": 60,
+    "max_speed": 65
+  },
+  {
+    "h3_index": "8967412e353ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 55,
+    "unique_vehicles": 1,
+    "min_speed": 55,
+    "max_speed": 55
+  },
+  {
+    "h3_index": "8967412e0abffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 24,
+    "unique_vehicles": 1,
+    "min_speed": 24,
+    "max_speed": 24
+  },
+  {
+    "h3_index": "89674c5a63bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 105,
+    "unique_vehicles": 1,
+    "min_speed": 105,
+    "max_speed": 105
+  },
+  {
+    "h3_index": "89674120c7bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 118,
+    "unique_vehicles": 1,
+    "min_speed": 118,
+    "max_speed": 118
+  },
+  {
+    "h3_index": "89674120e97ffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 46,
+    "unique_vehicles": 2,
+    "min_speed": 20,
+    "max_speed": 72
+  },
+  {
+    "h3_index": "8967412eb2bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 33,
+    "unique_vehicles": 1,
+    "min_speed": 33,
+    "max_speed": 33
+  },
+  {
+    "h3_index": "8967412550fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 75,
+    "unique_vehicles": 1,
+    "min_speed": 75,
+    "max_speed": 75
+  },
+  {
+    "h3_index": "89674c5b287ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 50,
+    "unique_vehicles": 1,
+    "min_speed": 50,
+    "max_speed": 50
+  },
+  {
+    "h3_index": "89674135b2bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 107,
+    "unique_vehicles": 1,
+    "min_speed": 107,
+    "max_speed": 107
+  },
+  {
+    "h3_index": "89674c5a543ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 3,
+    "unique_vehicles": 1,
+    "min_speed": 3,
+    "max_speed": 3
+  },
+  {
+    "h3_index": "89674126343ffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 114.5,
+    "unique_vehicles": 2,
+    "min_speed": 112,
+    "max_speed": 117
+  },
+  {
+    "h3_index": "8967412cd5bffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 108,
+    "unique_vehicles": 2,
+    "min_speed": 99,
+    "max_speed": 117
+  },
+  {
+    "h3_index": "896741240b3ffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 81.5,
+    "unique_vehicles": 2,
+    "min_speed": 71,
+    "max_speed": 92
+  },
+  {
+    "h3_index": "89674125c8fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 116,
+    "unique_vehicles": 1,
+    "min_speed": 116,
+    "max_speed": 116
+  },
+  {
+    "h3_index": "89674124e6bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 83,
+    "unique_vehicles": 1,
+    "min_speed": 83,
+    "max_speed": 83
+  },
+  {
+    "h3_index": "8967412405bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 44,
+    "unique_vehicles": 1,
+    "min_speed": 44,
+    "max_speed": 44
+  },
+  {
+    "h3_index": "8967412f14bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 3,
+    "unique_vehicles": 1,
+    "min_speed": 3,
+    "max_speed": 3
+  },
+  {
+    "h3_index": "896741254cfffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 7,
+    "unique_vehicles": 1,
+    "min_speed": 7,
+    "max_speed": 7
+  },
+  {
+    "h3_index": "896741245a7ffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 90,
+    "unique_vehicles": 2,
+    "min_speed": 81,
+    "max_speed": 99
+  },
+  {
+    "h3_index": "89674120177ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 75,
+    "unique_vehicles": 1,
+    "min_speed": 75,
+    "max_speed": 75
+  },
+  {
+    "h3_index": "8967412e53bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 114,
+    "unique_vehicles": 1,
+    "min_speed": 114,
+    "max_speed": 114
+  },
+  {
+    "h3_index": "89674135b43ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 9,
+    "unique_vehicles": 1,
+    "min_speed": 9,
+    "max_speed": 9
+  },
+  {
+    "h3_index": "8967412ebd3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 94,
+    "unique_vehicles": 1,
+    "min_speed": 94,
+    "max_speed": 94
+  },
+  {
+    "h3_index": "89674120ed7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 40,
+    "unique_vehicles": 1,
+    "min_speed": 40,
+    "max_speed": 40
+  },
+  {
+    "h3_index": "8967412dc63ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 55,
+    "unique_vehicles": 1,
+    "min_speed": 55,
+    "max_speed": 55
+  },
+  {
+    "h3_index": "89674122a37ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 38,
+    "unique_vehicles": 1,
+    "min_speed": 38,
+    "max_speed": 38
+  },
+  {
+    "h3_index": "8967412ca47ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 62,
+    "unique_vehicles": 1,
+    "min_speed": 62,
+    "max_speed": 62
+  },
+  {
+    "h3_index": "89674121a9bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 13,
+    "unique_vehicles": 1,
+    "min_speed": 13,
+    "max_speed": 13
+  },
+  {
+    "h3_index": "896741272a3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 72,
+    "unique_vehicles": 1,
+    "min_speed": 72,
+    "max_speed": 72
+  },
+  {
+    "h3_index": "896741240abffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 31,
+    "unique_vehicles": 1,
+    "min_speed": 31,
+    "max_speed": 31
+  },
+  {
+    "h3_index": "8967412ca53ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 21,
+    "unique_vehicles": 1,
+    "min_speed": 21,
+    "max_speed": 21
+  },
+  {
+    "h3_index": "89674125e73ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 23,
+    "unique_vehicles": 1,
+    "min_speed": 23,
+    "max_speed": 23
+  },
+  {
+    "h3_index": "8967412156bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 59,
+    "unique_vehicles": 1,
+    "min_speed": 59,
+    "max_speed": 59
+  },
+  {
+    "h3_index": "89674125483ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 13,
+    "unique_vehicles": 1,
+    "min_speed": 13,
+    "max_speed": 13
+  },
+  {
+    "h3_index": "89674125d77ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 78,
+    "unique_vehicles": 1,
+    "min_speed": 78,
+    "max_speed": 78
+  },
+  {
+    "h3_index": "89674c5a5d3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 84,
+    "unique_vehicles": 1,
+    "min_speed": 84,
+    "max_speed": 84
+  },
+  {
+    "h3_index": "8967412f403ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 118,
+    "unique_vehicles": 1,
+    "min_speed": 118,
+    "max_speed": 118
+  },
+  {
+    "h3_index": "89674122a8fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 41,
+    "unique_vehicles": 1,
+    "min_speed": 41,
+    "max_speed": 41
+  },
+  {
+    "h3_index": "89674126617ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 19,
+    "unique_vehicles": 1,
+    "min_speed": 19,
+    "max_speed": 19
+  },
+  {
+    "h3_index": "89674122807ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 91,
+    "unique_vehicles": 1,
+    "min_speed": 91,
+    "max_speed": 91
+  },
+  {
+    "h3_index": "8967412d5a7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 46,
+    "unique_vehicles": 1,
+    "min_speed": 46,
+    "max_speed": 46
+  },
+  {
+    "h3_index": "8967412c10bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 104,
+    "unique_vehicles": 1,
+    "min_speed": 104,
+    "max_speed": 104
+  },
+  {
+    "h3_index": "8967413586fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 53,
+    "unique_vehicles": 1,
+    "min_speed": 53,
+    "max_speed": 53
+  },
+  {
+    "h3_index": "89674c5b2cfffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 119,
+    "unique_vehicles": 1,
+    "min_speed": 119,
+    "max_speed": 119
+  },
+  {
+    "h3_index": "89674125123ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 72,
+    "unique_vehicles": 1,
+    "min_speed": 72,
+    "max_speed": 72
+  },
+  {
+    "h3_index": "89674c5a5cbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 101,
+    "unique_vehicles": 1,
+    "min_speed": 101,
+    "max_speed": 101
+  },
+  {
+    "h3_index": "89674127123ffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 80,
+    "unique_vehicles": 2,
+    "min_speed": 60,
+    "max_speed": 100
+  },
+  {
+    "h3_index": "896741229a3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 39,
+    "unique_vehicles": 1,
+    "min_speed": 39,
+    "max_speed": 39
+  },
+  {
+    "h3_index": "89674c5b44bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 115,
+    "unique_vehicles": 1,
+    "min_speed": 115,
+    "max_speed": 115
+  },
+  {
+    "h3_index": "8967412c803ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 101,
+    "unique_vehicles": 1,
+    "min_speed": 101,
+    "max_speed": 101
+  },
+  {
+    "h3_index": "89674121d57ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 109,
+    "unique_vehicles": 1,
+    "min_speed": 109,
+    "max_speed": 109
+  },
+  {
+    "h3_index": "89674121acbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 85,
+    "unique_vehicles": 1,
+    "min_speed": 85,
+    "max_speed": 85
+  },
+  {
+    "h3_index": "8967412752fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 2,
+    "unique_vehicles": 1,
+    "min_speed": 2,
+    "max_speed": 2
+  },
+  {
+    "h3_index": "89674120ba3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 61,
+    "unique_vehicles": 1,
+    "min_speed": 61,
+    "max_speed": 61
+  },
+  {
+    "h3_index": "89674121e13ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 79,
+    "unique_vehicles": 1,
+    "min_speed": 79,
+    "max_speed": 79
+  },
+  {
+    "h3_index": "89674125b8bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 98,
+    "unique_vehicles": 1,
+    "min_speed": 98,
+    "max_speed": 98
+  },
+  {
+    "h3_index": "8967412c8d7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 80,
+    "unique_vehicles": 1,
+    "min_speed": 80,
+    "max_speed": 80
+  },
+  {
+    "h3_index": "89674125113ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 40,
+    "unique_vehicles": 1,
+    "min_speed": 40,
+    "max_speed": 40
+  },
+  {
+    "h3_index": "8967412c1afffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 22,
+    "unique_vehicles": 1,
+    "min_speed": 22,
+    "max_speed": 22
+  },
+  {
+    "h3_index": "8967412c51bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 89,
+    "unique_vehicles": 1,
+    "min_speed": 89,
+    "max_speed": 89
+  },
+  {
+    "h3_index": "8967412f1c3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 36,
+    "unique_vehicles": 1,
+    "min_speed": 36,
+    "max_speed": 36
+  },
+  {
+    "h3_index": "89674127043ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 95,
+    "unique_vehicles": 1,
+    "min_speed": 95,
+    "max_speed": 95
+  },
+  {
+    "h3_index": "89674c5b0b7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 107,
+    "unique_vehicles": 1,
+    "min_speed": 107,
+    "max_speed": 107
+  },
+  {
+    "h3_index": "8967412e32bffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 25.5,
+    "unique_vehicles": 2,
+    "min_speed": 23,
+    "max_speed": 28
+  },
+  {
+    "h3_index": "89674135aa3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 54,
+    "unique_vehicles": 1,
+    "min_speed": 54,
+    "max_speed": 54
+  },
+  {
+    "h3_index": "89674c5a2a7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 0,
+    "unique_vehicles": 1,
+    "min_speed": 0,
+    "max_speed": 0
+  },
+  {
+    "h3_index": "896741271a3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 109,
+    "unique_vehicles": 1,
+    "min_speed": 109,
+    "max_speed": 109
+  },
+  {
+    "h3_index": "8967412594fffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 20.5,
+    "unique_vehicles": 2,
+    "min_speed": 3,
+    "max_speed": 38
+  },
+  {
+    "h3_index": "8967412506fffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 100,
+    "unique_vehicles": 2,
+    "min_speed": 85,
+    "max_speed": 115
+  },
+  {
+    "h3_index": "8967412428bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 116,
+    "unique_vehicles": 1,
+    "min_speed": 116,
+    "max_speed": 116
+  },
+  {
+    "h3_index": "89674126263ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 103,
+    "unique_vehicles": 1,
+    "min_speed": 103,
+    "max_speed": 103
+  },
+  {
+    "h3_index": "89674127097ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 40,
+    "unique_vehicles": 1,
+    "min_speed": 40,
+    "max_speed": 40
+  },
+  {
+    "h3_index": "8967412e10fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 35,
+    "unique_vehicles": 1,
+    "min_speed": 35,
+    "max_speed": 35
+  },
+  {
+    "h3_index": "89674c5b457ffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 23.5,
+    "unique_vehicles": 2,
+    "min_speed": 11,
+    "max_speed": 36
+  },
+  {
+    "h3_index": "89674125333ffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 116.5,
+    "unique_vehicles": 2,
+    "min_speed": 113,
+    "max_speed": 120
+  },
+  {
+    "h3_index": "89674120213ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 31,
+    "unique_vehicles": 1,
+    "min_speed": 31,
+    "max_speed": 31
+  },
+  {
+    "h3_index": "896741240a7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 1,
+    "unique_vehicles": 1,
+    "min_speed": 1,
+    "max_speed": 1
+  },
+  {
+    "h3_index": "89674125e47ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 105,
+    "unique_vehicles": 1,
+    "min_speed": 105,
+    "max_speed": 105
+  },
+  {
+    "h3_index": "89674125c03ffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 56,
+    "unique_vehicles": 2,
+    "min_speed": 33,
+    "max_speed": 79
+  },
+  {
+    "h3_index": "8967412111bffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 66,
+    "unique_vehicles": 2,
+    "min_speed": 62,
+    "max_speed": 70
+  },
+  {
+    "h3_index": "89674c5a25bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 99,
+    "unique_vehicles": 1,
+    "min_speed": 99,
+    "max_speed": 99
+  },
+  {
+    "h3_index": "89674125d0bffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 72,
+    "unique_vehicles": 2,
+    "min_speed": 50,
+    "max_speed": 94
+  },
+  {
+    "h3_index": "8967412c88bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 74,
+    "unique_vehicles": 1,
+    "min_speed": 74,
+    "max_speed": 74
+  },
+  {
+    "h3_index": "89674125187ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 27,
+    "unique_vehicles": 1,
+    "min_speed": 27,
+    "max_speed": 27
+  },
+  {
+    "h3_index": "89674122997ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 97,
+    "unique_vehicles": 1,
+    "min_speed": 97,
+    "max_speed": 97
+  },
+  {
+    "h3_index": "8967412c6dbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 54,
+    "unique_vehicles": 1,
+    "min_speed": 54,
+    "max_speed": 54
+  },
+  {
+    "h3_index": "8967412024bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 73,
+    "unique_vehicles": 1,
+    "min_speed": 73,
+    "max_speed": 73
+  },
+  {
+    "h3_index": "896741202cfffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 106,
+    "unique_vehicles": 1,
+    "min_speed": 106,
+    "max_speed": 106
+  },
+  {
+    "h3_index": "8967412eeafffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 86,
+    "unique_vehicles": 1,
+    "min_speed": 86,
+    "max_speed": 86
+  },
+  {
+    "h3_index": "89674121b8bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 63,
+    "unique_vehicles": 1,
+    "min_speed": 63,
+    "max_speed": 63
+  },
+  {
+    "h3_index": "8967412c483ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 59,
+    "unique_vehicles": 1,
+    "min_speed": 59,
+    "max_speed": 59
+  },
+  {
+    "h3_index": "89674124333ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 96,
+    "unique_vehicles": 1,
+    "min_speed": 96,
+    "max_speed": 96
+  },
+  {
+    "h3_index": "89674c5a0b7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 23,
+    "unique_vehicles": 1,
+    "min_speed": 23,
+    "max_speed": 23
+  },
+  {
+    "h3_index": "8967412e407ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 37,
+    "unique_vehicles": 1,
+    "min_speed": 37,
+    "max_speed": 37
+  },
+  {
+    "h3_index": "8967412d58bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 93,
+    "unique_vehicles": 1,
+    "min_speed": 93,
+    "max_speed": 93
+  },
+  {
+    "h3_index": "8967412ce37ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 49,
+    "unique_vehicles": 1,
+    "min_speed": 49,
+    "max_speed": 49
+  },
+  {
+    "h3_index": "8967412d567ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 81,
+    "unique_vehicles": 1,
+    "min_speed": 81,
+    "max_speed": 81
+  },
+  {
+    "h3_index": "8967412e377ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 47,
+    "unique_vehicles": 1,
+    "min_speed": 47,
+    "max_speed": 47
+  },
+  {
+    "h3_index": "89674121a87ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 16,
+    "unique_vehicles": 1,
+    "min_speed": 16,
+    "max_speed": 16
+  },
+  {
+    "h3_index": "896741244d7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 97,
+    "unique_vehicles": 1,
+    "min_speed": 97,
+    "max_speed": 97
+  },
+  {
+    "h3_index": "896741266dbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 14,
+    "unique_vehicles": 1,
+    "min_speed": 14,
+    "max_speed": 14
+  },
+  {
+    "h3_index": "8967412c4abffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 69,
+    "unique_vehicles": 1,
+    "min_speed": 69,
+    "max_speed": 69
+  },
+  {
+    "h3_index": "89674120067ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 81,
+    "unique_vehicles": 1,
+    "min_speed": 81,
+    "max_speed": 81
+  },
+  {
+    "h3_index": "8967412f42fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 58,
+    "unique_vehicles": 1,
+    "min_speed": 58,
+    "max_speed": 58
+  },
+  {
+    "h3_index": "8967412eb43ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 33,
+    "unique_vehicles": 1,
+    "min_speed": 33,
+    "max_speed": 33
+  },
+  {
+    "h3_index": "89674124137ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 23,
+    "unique_vehicles": 1,
+    "min_speed": 23,
+    "max_speed": 23
+  },
+  {
+    "h3_index": "89674125557ffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 39.5,
+    "unique_vehicles": 2,
+    "min_speed": 14,
+    "max_speed": 65
+  },
+  {
+    "h3_index": "8967412eaafffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 85,
+    "unique_vehicles": 1,
+    "min_speed": 85,
+    "max_speed": 85
+  },
+  {
+    "h3_index": "8967413590bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 107,
+    "unique_vehicles": 1,
+    "min_speed": 107,
+    "max_speed": 107
+  },
+  {
+    "h3_index": "8967412eda3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 23,
+    "unique_vehicles": 1,
+    "min_speed": 23,
+    "max_speed": 23
+  },
+  {
+    "h3_index": "896741274cfffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 105,
+    "unique_vehicles": 1,
+    "min_speed": 105,
+    "max_speed": 105
+  },
+  {
+    "h3_index": "8967412e42fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 107,
+    "unique_vehicles": 1,
+    "min_speed": 107,
+    "max_speed": 107
+  },
+  {
+    "h3_index": "8967412c047ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 37,
+    "unique_vehicles": 1,
+    "min_speed": 37,
+    "max_speed": 37
+  },
+  {
+    "h3_index": "89674125257ffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 45,
+    "unique_vehicles": 2,
+    "min_speed": 24,
+    "max_speed": 66
+  },
+  {
+    "h3_index": "8967412c457ffff",
+    "point_count": 3,
+    "density_level": "LOW",
+    "avg_speed": 49.67,
+    "unique_vehicles": 3,
+    "min_speed": 0,
+    "max_speed": 101
+  },
+  {
+    "h3_index": "89674122a8bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 58,
+    "unique_vehicles": 1,
+    "min_speed": 58,
+    "max_speed": 58
+  },
+  {
+    "h3_index": "89674125003ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 107,
+    "unique_vehicles": 1,
+    "min_speed": 107,
+    "max_speed": 107
+  },
+  {
+    "h3_index": "89674125d3bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 14,
+    "unique_vehicles": 1,
+    "min_speed": 14,
+    "max_speed": 14
+  },
+  {
+    "h3_index": "89674c5b0c3ffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 8.5,
+    "unique_vehicles": 2,
+    "min_speed": 0,
+    "max_speed": 17
+  },
+  {
+    "h3_index": "89674125033ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 91,
+    "unique_vehicles": 1,
+    "min_speed": 91,
+    "max_speed": 91
+  },
+  {
+    "h3_index": "89674125a83ffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 32,
+    "unique_vehicles": 2,
+    "min_speed": 10,
+    "max_speed": 54
+  },
+  {
+    "h3_index": "89674c5a2abffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 118,
+    "unique_vehicles": 1,
+    "min_speed": 118,
+    "max_speed": 118
+  },
+  {
+    "h3_index": "89674121e57ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 61,
+    "unique_vehicles": 1,
+    "min_speed": 61,
+    "max_speed": 61
+  },
+  {
+    "h3_index": "8967412037bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 25,
+    "unique_vehicles": 1,
+    "min_speed": 25,
+    "max_speed": 25
+  },
+  {
+    "h3_index": "89674125e6bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 27,
+    "unique_vehicles": 1,
+    "min_speed": 27,
+    "max_speed": 27
+  },
+  {
+    "h3_index": "8967412c0c7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 33,
+    "unique_vehicles": 1,
+    "min_speed": 33,
+    "max_speed": 33
+  },
+  {
+    "h3_index": "89674120cc7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 115,
+    "unique_vehicles": 1,
+    "min_speed": 115,
+    "max_speed": 115
+  },
+  {
+    "h3_index": "8967412c02bffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 69.5,
+    "unique_vehicles": 2,
+    "min_speed": 21,
+    "max_speed": 118
+  },
+  {
+    "h3_index": "8967412deb3ffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 92,
+    "unique_vehicles": 2,
+    "min_speed": 68,
+    "max_speed": 116
+  },
+  {
+    "h3_index": "8967412628bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 102,
+    "unique_vehicles": 1,
+    "min_speed": 102,
+    "max_speed": 102
+  },
+  {
+    "h3_index": "89674135bcbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 2,
+    "unique_vehicles": 1,
+    "min_speed": 2,
+    "max_speed": 2
+  },
+  {
+    "h3_index": "8967412f543ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 33,
+    "unique_vehicles": 1,
+    "min_speed": 33,
+    "max_speed": 33
+  },
+  {
+    "h3_index": "8967412de37ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 63,
+    "unique_vehicles": 1,
+    "min_speed": 63,
+    "max_speed": 63
+  },
+  {
+    "h3_index": "89674c5a6a3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 75,
+    "unique_vehicles": 1,
+    "min_speed": 75,
+    "max_speed": 75
+  },
+  {
+    "h3_index": "8967412ea57ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 120,
+    "unique_vehicles": 1,
+    "min_speed": 120,
+    "max_speed": 120
+  },
+  {
+    "h3_index": "89674127383ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 49,
+    "unique_vehicles": 1,
+    "min_speed": 49,
+    "max_speed": 49
+  },
+  {
+    "h3_index": "8967412f19bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 97,
+    "unique_vehicles": 1,
+    "min_speed": 97,
+    "max_speed": 97
+  },
+  {
+    "h3_index": "896741251abffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 19,
+    "unique_vehicles": 1,
+    "min_speed": 19,
+    "max_speed": 19
+  },
+  {
+    "h3_index": "89674121933ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 57,
+    "unique_vehicles": 1,
+    "min_speed": 57,
+    "max_speed": 57
+  },
+  {
+    "h3_index": "89674c5b11bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 51,
+    "unique_vehicles": 1,
+    "min_speed": 51,
+    "max_speed": 51
+  },
+  {
+    "h3_index": "8967412cc93ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 113,
+    "unique_vehicles": 1,
+    "min_speed": 113,
+    "max_speed": 113
+  },
+  {
+    "h3_index": "896741259a3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 120,
+    "unique_vehicles": 1,
+    "min_speed": 120,
+    "max_speed": 120
+  },
+  {
+    "h3_index": "8967412cccfffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 93,
+    "unique_vehicles": 1,
+    "min_speed": 93,
+    "max_speed": 93
+  },
+  {
+    "h3_index": "89674120adbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 98,
+    "unique_vehicles": 1,
+    "min_speed": 98,
+    "max_speed": 98
+  },
+  {
+    "h3_index": "896741273bbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 6,
+    "unique_vehicles": 1,
+    "min_speed": 6,
+    "max_speed": 6
+  },
+  {
+    "h3_index": "896741245b7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 78,
+    "unique_vehicles": 1,
+    "min_speed": 78,
+    "max_speed": 78
+  },
+  {
+    "h3_index": "89674124283ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 52,
+    "unique_vehicles": 1,
+    "min_speed": 52,
+    "max_speed": 52
+  },
+  {
+    "h3_index": "89674121ca7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 67,
+    "unique_vehicles": 1,
+    "min_speed": 67,
+    "max_speed": 67
+  },
+  {
+    "h3_index": "89674135a4bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 47,
+    "unique_vehicles": 1,
+    "min_speed": 47,
+    "max_speed": 47
+  },
+  {
+    "h3_index": "89674120e3bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 55,
+    "unique_vehicles": 1,
+    "min_speed": 55,
+    "max_speed": 55
+  },
+  {
+    "h3_index": "89674c5a6c7ffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 26.5,
+    "unique_vehicles": 2,
+    "min_speed": 15,
+    "max_speed": 38
+  },
+  {
+    "h3_index": "8967412664bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 29,
+    "unique_vehicles": 1,
+    "min_speed": 29,
+    "max_speed": 29
+  },
+  {
+    "h3_index": "89674c5b01bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 87,
+    "unique_vehicles": 1,
+    "min_speed": 87,
+    "max_speed": 87
+  },
+  {
+    "h3_index": "89674125167ffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 80,
+    "unique_vehicles": 2,
+    "min_speed": 52,
+    "max_speed": 108
+  },
+  {
+    "h3_index": "896741254d3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 45,
+    "unique_vehicles": 1,
+    "min_speed": 45,
+    "max_speed": 45
+  },
+  {
+    "h3_index": "89674c5a037ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 83,
+    "unique_vehicles": 1,
+    "min_speed": 83,
+    "max_speed": 83
+  },
+  {
+    "h3_index": "8967412e29bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 109,
+    "unique_vehicles": 1,
+    "min_speed": 109,
+    "max_speed": 109
+  },
+  {
+    "h3_index": "8967412748fffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 42,
+    "unique_vehicles": 2,
+    "min_speed": 32,
+    "max_speed": 52
+  },
+  {
+    "h3_index": "8967412ec6fffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 21,
+    "unique_vehicles": 2,
+    "min_speed": 6,
+    "max_speed": 36
+  },
+  {
+    "h3_index": "8967412ebbbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 111,
+    "unique_vehicles": 1,
+    "min_speed": 111,
+    "max_speed": 111
+  },
+  {
+    "h3_index": "8967412552bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 64,
+    "unique_vehicles": 1,
+    "min_speed": 64,
+    "max_speed": 64
+  },
+  {
+    "h3_index": "8967412e123ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 22,
+    "unique_vehicles": 1,
+    "min_speed": 22,
+    "max_speed": 22
+  },
+  {
+    "h3_index": "89674c5a067ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 97,
+    "unique_vehicles": 1,
+    "min_speed": 97,
+    "max_speed": 97
+  },
+  {
+    "h3_index": "89674120393ffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 82,
+    "unique_vehicles": 2,
+    "min_speed": 78,
+    "max_speed": 86
+  },
+  {
+    "h3_index": "89674124427ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 107,
+    "unique_vehicles": 1,
+    "min_speed": 107,
+    "max_speed": 107
+  },
+  {
+    "h3_index": "89674127127ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 30,
+    "unique_vehicles": 1,
+    "min_speed": 30,
+    "max_speed": 30
+  },
+  {
+    "h3_index": "8967412f40fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 87,
+    "unique_vehicles": 1,
+    "min_speed": 87,
+    "max_speed": 87
+  },
+  {
+    "h3_index": "89674c5b5afffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 53,
+    "unique_vehicles": 1,
+    "min_speed": 53,
+    "max_speed": 53
+  },
+  {
+    "h3_index": "896741244c7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 107,
+    "unique_vehicles": 1,
+    "min_speed": 107,
+    "max_speed": 107
+  },
+  {
+    "h3_index": "89674c5b64fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 30,
+    "unique_vehicles": 1,
+    "min_speed": 30,
+    "max_speed": 30
+  },
+  {
+    "h3_index": "8967412ea27ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 98,
+    "unique_vehicles": 1,
+    "min_speed": 98,
+    "max_speed": 98
+  },
+  {
+    "h3_index": "89674120c83ffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 25.5,
+    "unique_vehicles": 2,
+    "min_speed": 8,
+    "max_speed": 43
+  },
+  {
+    "h3_index": "8967412754fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 110,
+    "unique_vehicles": 1,
+    "min_speed": 110,
+    "max_speed": 110
+  },
+  {
+    "h3_index": "89674127583ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 50,
+    "unique_vehicles": 1,
+    "min_speed": 50,
+    "max_speed": 50
+  },
+  {
+    "h3_index": "89674125cabffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 114,
+    "unique_vehicles": 1,
+    "min_speed": 114,
+    "max_speed": 114
+  },
+  {
+    "h3_index": "89674c5b0afffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 100,
+    "unique_vehicles": 1,
+    "min_speed": 100,
+    "max_speed": 100
+  },
+  {
+    "h3_index": "89674c5b113ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 89,
+    "unique_vehicles": 1,
+    "min_speed": 89,
+    "max_speed": 89
+  },
+  {
+    "h3_index": "896741264dbffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 89.5,
+    "unique_vehicles": 2,
+    "min_speed": 75,
+    "max_speed": 104
+  },
+  {
+    "h3_index": "89674135b67ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 77,
+    "unique_vehicles": 1,
+    "min_speed": 77,
+    "max_speed": 77
+  },
+  {
+    "h3_index": "8967412ce3bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 102,
+    "unique_vehicles": 1,
+    "min_speed": 102,
+    "max_speed": 102
+  },
+  {
+    "h3_index": "89674124647ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 86,
+    "unique_vehicles": 1,
+    "min_speed": 86,
+    "max_speed": 86
+  },
+  {
+    "h3_index": "8967412092bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 17,
+    "unique_vehicles": 1,
+    "min_speed": 17,
+    "max_speed": 17
+  },
+  {
+    "h3_index": "89674c5b047ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 87,
+    "unique_vehicles": 1,
+    "min_speed": 87,
+    "max_speed": 87
+  },
+  {
+    "h3_index": "8967412c4cfffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 81.5,
+    "unique_vehicles": 2,
+    "min_speed": 47,
+    "max_speed": 116
+  },
+  {
+    "h3_index": "8967412e16bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 118,
+    "unique_vehicles": 1,
+    "min_speed": 118,
+    "max_speed": 118
+  },
+  {
+    "h3_index": "89674c5b2dbffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 41,
+    "unique_vehicles": 2,
+    "min_speed": 24,
+    "max_speed": 58
+  },
+  {
+    "h3_index": "89674121cbbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 115,
+    "unique_vehicles": 1,
+    "min_speed": 115,
+    "max_speed": 115
+  },
+  {
+    "h3_index": "896741208c3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 87,
+    "unique_vehicles": 1,
+    "min_speed": 87,
+    "max_speed": 87
+  },
+  {
+    "h3_index": "8967412d823ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 116,
+    "unique_vehicles": 1,
+    "min_speed": 116,
+    "max_speed": 116
+  },
+  {
+    "h3_index": "8967412191bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 80,
+    "unique_vehicles": 1,
+    "min_speed": 80,
+    "max_speed": 80
+  },
+  {
+    "h3_index": "89674121847ffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 26.5,
+    "unique_vehicles": 2,
+    "min_speed": 6,
+    "max_speed": 47
+  },
+  {
+    "h3_index": "89674125677ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 33,
+    "unique_vehicles": 1,
+    "min_speed": 33,
+    "max_speed": 33
+  },
+  {
+    "h3_index": "8967412ec8bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 16,
+    "unique_vehicles": 1,
+    "min_speed": 16,
+    "max_speed": 16
+  },
+  {
+    "h3_index": "89674c5a293ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 51,
+    "unique_vehicles": 1,
+    "min_speed": 51,
+    "max_speed": 51
+  },
+  {
+    "h3_index": "8967412e4b7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 12,
+    "unique_vehicles": 1,
+    "min_speed": 12,
+    "max_speed": 12
+  },
+  {
+    "h3_index": "8967412293bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 106,
+    "unique_vehicles": 1,
+    "min_speed": 106,
+    "max_speed": 106
+  },
+  {
+    "h3_index": "89674124e57ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 15,
+    "unique_vehicles": 1,
+    "min_speed": 15,
+    "max_speed": 15
+  },
+  {
+    "h3_index": "89674120127ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 30,
+    "unique_vehicles": 1,
+    "min_speed": 30,
+    "max_speed": 30
+  },
+  {
+    "h3_index": "896741258bbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 120,
+    "unique_vehicles": 1,
+    "min_speed": 120,
+    "max_speed": 120
+  },
+  {
+    "h3_index": "8967412c94bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 47,
+    "unique_vehicles": 1,
+    "min_speed": 47,
+    "max_speed": 47
+  },
+  {
+    "h3_index": "8967412f363ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 65,
+    "unique_vehicles": 1,
+    "min_speed": 65,
+    "max_speed": 65
+  },
+  {
+    "h3_index": "89674135873ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 59,
+    "unique_vehicles": 1,
+    "min_speed": 59,
+    "max_speed": 59
+  },
+  {
+    "h3_index": "89674122963ffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 33.5,
+    "unique_vehicles": 2,
+    "min_speed": 6,
+    "max_speed": 61
+  },
+  {
+    "h3_index": "8967412ca4fffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 17.5,
+    "unique_vehicles": 2,
+    "min_speed": 11,
+    "max_speed": 24
+  },
+  {
+    "h3_index": "89674134a43ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 54,
+    "unique_vehicles": 1,
+    "min_speed": 54,
+    "max_speed": 54
+  },
+  {
+    "h3_index": "8967412d1b3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 77,
+    "unique_vehicles": 1,
+    "min_speed": 77,
+    "max_speed": 77
+  },
+  {
+    "h3_index": "896741242d7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 36,
+    "unique_vehicles": 1,
+    "min_speed": 36,
+    "max_speed": 36
+  },
+  {
+    "h3_index": "89674135957ffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 93.5,
+    "unique_vehicles": 2,
+    "min_speed": 82,
+    "max_speed": 105
+  },
+  {
+    "h3_index": "896741248c3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 33,
+    "unique_vehicles": 1,
+    "min_speed": 33,
+    "max_speed": 33
+  },
+  {
+    "h3_index": "89674135b23ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 40,
+    "unique_vehicles": 1,
+    "min_speed": 40,
+    "max_speed": 40
+  },
+  {
+    "h3_index": "89674120ed3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 1,
+    "unique_vehicles": 1,
+    "min_speed": 1,
+    "max_speed": 1
+  },
+  {
+    "h3_index": "8967412c2cfffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 76,
+    "unique_vehicles": 1,
+    "min_speed": 76,
+    "max_speed": 76
+  },
+  {
+    "h3_index": "8967412e99bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 76,
+    "unique_vehicles": 1,
+    "min_speed": 76,
+    "max_speed": 76
+  },
+  {
+    "h3_index": "89674c5a213ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 66,
+    "unique_vehicles": 1,
+    "min_speed": 66,
+    "max_speed": 66
+  },
+  {
+    "h3_index": "89674120353ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 52,
+    "unique_vehicles": 1,
+    "min_speed": 52,
+    "max_speed": 52
+  },
+  {
+    "h3_index": "89674124ab3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 71,
+    "unique_vehicles": 1,
+    "min_speed": 71,
+    "max_speed": 71
+  },
+  {
+    "h3_index": "8967412667bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 62,
+    "unique_vehicles": 1,
+    "min_speed": 62,
+    "max_speed": 62
+  },
+  {
+    "h3_index": "89674121a17ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 34,
+    "unique_vehicles": 1,
+    "min_speed": 34,
+    "max_speed": 34
+  },
+  {
+    "h3_index": "89674126003ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 119,
+    "unique_vehicles": 1,
+    "min_speed": 119,
+    "max_speed": 119
+  },
+  {
+    "h3_index": "8967412f087ffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 114.5,
+    "unique_vehicles": 2,
+    "min_speed": 109,
+    "max_speed": 120
+  },
+  {
+    "h3_index": "8967412c873ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 100,
+    "unique_vehicles": 1,
+    "min_speed": 100,
+    "max_speed": 100
+  },
+  {
+    "h3_index": "896741255a3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 96,
+    "unique_vehicles": 1,
+    "min_speed": 96,
+    "max_speed": 96
+  },
+  {
+    "h3_index": "89674c5b013ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 34,
+    "unique_vehicles": 1,
+    "min_speed": 34,
+    "max_speed": 34
+  },
+  {
+    "h3_index": "89674127457ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 7,
+    "unique_vehicles": 1,
+    "min_speed": 7,
+    "max_speed": 7
+  },
+  {
+    "h3_index": "896741272b7ffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 39.5,
+    "unique_vehicles": 2,
+    "min_speed": 9,
+    "max_speed": 70
+  },
+  {
+    "h3_index": "89674120d0bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 29,
+    "unique_vehicles": 1,
+    "min_speed": 29,
+    "max_speed": 29
+  },
+  {
+    "h3_index": "89674120bb3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 99,
+    "unique_vehicles": 1,
+    "min_speed": 99,
+    "max_speed": 99
+  },
+  {
+    "h3_index": "89674c5b203ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 43,
+    "unique_vehicles": 1,
+    "min_speed": 43,
+    "max_speed": 43
+  },
+  {
+    "h3_index": "89674135927ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 91,
+    "unique_vehicles": 1,
+    "min_speed": 91,
+    "max_speed": 91
+  },
+  {
+    "h3_index": "89674125d53ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 21,
+    "unique_vehicles": 1,
+    "min_speed": 21,
+    "max_speed": 21
+  },
+  {
+    "h3_index": "89674121d4fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 39,
+    "unique_vehicles": 1,
+    "min_speed": 39,
+    "max_speed": 39
+  },
+  {
+    "h3_index": "8967413592fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 110,
+    "unique_vehicles": 1,
+    "min_speed": 110,
+    "max_speed": 110
+  },
+  {
+    "h3_index": "8967412f597ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 72,
+    "unique_vehicles": 1,
+    "min_speed": 72,
+    "max_speed": 72
+  },
+  {
+    "h3_index": "8967412eb6fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 68,
+    "unique_vehicles": 1,
+    "min_speed": 68,
+    "max_speed": 68
+  },
+  {
+    "h3_index": "896741208bbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 20,
+    "unique_vehicles": 1,
+    "min_speed": 20,
+    "max_speed": 20
+  },
+  {
+    "h3_index": "8967412eb07ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 47,
+    "unique_vehicles": 1,
+    "min_speed": 47,
+    "max_speed": 47
+  },
+  {
+    "h3_index": "8967412c87bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 20,
+    "unique_vehicles": 1,
+    "min_speed": 20,
+    "max_speed": 20
+  },
+  {
+    "h3_index": "89674135a37ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 74,
+    "unique_vehicles": 1,
+    "min_speed": 74,
+    "max_speed": 74
+  },
+  {
+    "h3_index": "896741202cbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 78,
+    "unique_vehicles": 1,
+    "min_speed": 78,
+    "max_speed": 78
+  },
+  {
+    "h3_index": "8967412d59bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 74,
+    "unique_vehicles": 1,
+    "min_speed": 74,
+    "max_speed": 74
+  },
+  {
+    "h3_index": "8967412c5b7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 100,
+    "unique_vehicles": 1,
+    "min_speed": 100,
+    "max_speed": 100
+  },
+  {
+    "h3_index": "89674120b2bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 111,
+    "unique_vehicles": 1,
+    "min_speed": 111,
+    "max_speed": 111
+  },
+  {
+    "h3_index": "896741273c3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 110,
+    "unique_vehicles": 1,
+    "min_speed": 110,
+    "max_speed": 110
+  },
+  {
+    "h3_index": "89674135bc3ffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 40,
+    "unique_vehicles": 2,
+    "min_speed": 26,
+    "max_speed": 54
+  },
+  {
+    "h3_index": "8967412ec07ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 30,
+    "unique_vehicles": 1,
+    "min_speed": 30,
+    "max_speed": 30
+  },
+  {
+    "h3_index": "8967412cc3bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 86,
+    "unique_vehicles": 1,
+    "min_speed": 86,
+    "max_speed": 86
+  },
+  {
+    "h3_index": "8967412742fffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 100.5,
+    "unique_vehicles": 2,
+    "min_speed": 94,
+    "max_speed": 107
+  },
+  {
+    "h3_index": "89674121e6fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 89,
+    "unique_vehicles": 1,
+    "min_speed": 89,
+    "max_speed": 89
+  },
+  {
+    "h3_index": "8967412c8cbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 111,
+    "unique_vehicles": 1,
+    "min_speed": 111,
+    "max_speed": 111
+  },
+  {
+    "h3_index": "89674125a53ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 65,
+    "unique_vehicles": 1,
+    "min_speed": 65,
+    "max_speed": 65
+  },
+  {
+    "h3_index": "896741266cbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 22,
+    "unique_vehicles": 1,
+    "min_speed": 22,
+    "max_speed": 22
+  },
+  {
+    "h3_index": "8967412cc63ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 14,
+    "unique_vehicles": 1,
+    "min_speed": 14,
+    "max_speed": 14
+  },
+  {
+    "h3_index": "8967412f007ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 31,
+    "unique_vehicles": 1,
+    "min_speed": 31,
+    "max_speed": 31
+  },
+  {
+    "h3_index": "8967412cc23ffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 61,
+    "unique_vehicles": 2,
+    "min_speed": 59,
+    "max_speed": 63
+  },
+  {
+    "h3_index": "89674125d67ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 23,
+    "unique_vehicles": 1,
+    "min_speed": 23,
+    "max_speed": 23
+  },
+  {
+    "h3_index": "8967412598bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 37,
+    "unique_vehicles": 1,
+    "min_speed": 37,
+    "max_speed": 37
+  },
+  {
+    "h3_index": "89674120ccbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 107,
+    "unique_vehicles": 1,
+    "min_speed": 107,
+    "max_speed": 107
+  },
+  {
+    "h3_index": "89674120d1bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 1,
+    "unique_vehicles": 1,
+    "min_speed": 1,
+    "max_speed": 1
+  },
+  {
+    "h3_index": "89674120d67ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 13,
+    "unique_vehicles": 1,
+    "min_speed": 13,
+    "max_speed": 13
+  },
+  {
+    "h3_index": "89674c5b467ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 10,
+    "unique_vehicles": 1,
+    "min_speed": 10,
+    "max_speed": 10
+  },
+  {
+    "h3_index": "8967412eb83ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 65,
+    "unique_vehicles": 1,
+    "min_speed": 65,
+    "max_speed": 65
+  },
+  {
+    "h3_index": "8967412638fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 108,
+    "unique_vehicles": 1,
+    "min_speed": 108,
+    "max_speed": 108
+  },
+  {
+    "h3_index": "89674124e1bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 34,
+    "unique_vehicles": 1,
+    "min_speed": 34,
+    "max_speed": 34
+  },
+  {
+    "h3_index": "89674121e6bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 72,
+    "unique_vehicles": 1,
+    "min_speed": 72,
+    "max_speed": 72
+  },
+  {
+    "h3_index": "8967412e9c3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 63,
+    "unique_vehicles": 1,
+    "min_speed": 63,
+    "max_speed": 63
+  },
+  {
+    "h3_index": "896741211b7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 37,
+    "unique_vehicles": 1,
+    "min_speed": 37,
+    "max_speed": 37
+  },
+  {
+    "h3_index": "8967412d89bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 91,
+    "unique_vehicles": 1,
+    "min_speed": 91,
+    "max_speed": 91
+  },
+  {
+    "h3_index": "8967412665bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 57,
+    "unique_vehicles": 1,
+    "min_speed": 57,
+    "max_speed": 57
+  },
+  {
+    "h3_index": "89674127133ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 45,
+    "unique_vehicles": 1,
+    "min_speed": 45,
+    "max_speed": 45
+  },
+  {
+    "h3_index": "8967412dc43ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 63,
+    "unique_vehicles": 1,
+    "min_speed": 63,
+    "max_speed": 63
+  },
+  {
+    "h3_index": "8967412e143ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 120,
+    "unique_vehicles": 1,
+    "min_speed": 120,
+    "max_speed": 120
+  },
+  {
+    "h3_index": "89674127593ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 52,
+    "unique_vehicles": 1,
+    "min_speed": 52,
+    "max_speed": 52
+  },
+  {
+    "h3_index": "8967412f18bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 23,
+    "unique_vehicles": 1,
+    "min_speed": 23,
+    "max_speed": 23
+  },
+  {
+    "h3_index": "89674c5b67bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 111,
+    "unique_vehicles": 1,
+    "min_speed": 111,
+    "max_speed": 111
+  },
+  {
+    "h3_index": "89674c5b283ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 33,
+    "unique_vehicles": 1,
+    "min_speed": 33,
+    "max_speed": 33
+  },
+  {
+    "h3_index": "8967412445bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 96,
+    "unique_vehicles": 1,
+    "min_speed": 96,
+    "max_speed": 96
+  },
+  {
+    "h3_index": "8967412f513ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 99,
+    "unique_vehicles": 1,
+    "min_speed": 99,
+    "max_speed": 99
+  },
+  {
+    "h3_index": "89674120837ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 30,
+    "unique_vehicles": 1,
+    "min_speed": 30,
+    "max_speed": 30
+  },
+  {
+    "h3_index": "896741254a7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 32,
+    "unique_vehicles": 1,
+    "min_speed": 32,
+    "max_speed": 32
+  },
+  {
+    "h3_index": "8967412e14fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 80,
+    "unique_vehicles": 1,
+    "min_speed": 80,
+    "max_speed": 80
+  },
+  {
+    "h3_index": "89674126633ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 52,
+    "unique_vehicles": 1,
+    "min_speed": 52,
+    "max_speed": 52
+  },
+  {
+    "h3_index": "89674135d2fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 6,
+    "unique_vehicles": 1,
+    "min_speed": 6,
+    "max_speed": 6
+  },
+  {
+    "h3_index": "8967412e647ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 26,
+    "unique_vehicles": 1,
+    "min_speed": 26,
+    "max_speed": 26
+  },
+  {
+    "h3_index": "8967412023bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 62,
+    "unique_vehicles": 1,
+    "min_speed": 62,
+    "max_speed": 62
+  },
+  {
+    "h3_index": "89674127287ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 67,
+    "unique_vehicles": 1,
+    "min_speed": 67,
+    "max_speed": 67
+  },
+  {
+    "h3_index": "89674121c87ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 19,
+    "unique_vehicles": 1,
+    "min_speed": 19,
+    "max_speed": 19
+  },
+  {
+    "h3_index": "8967412542bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 116,
+    "unique_vehicles": 1,
+    "min_speed": 116,
+    "max_speed": 116
+  },
+  {
+    "h3_index": "8967412194bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 3,
+    "unique_vehicles": 1,
+    "min_speed": 3,
+    "max_speed": 3
+  },
+  {
+    "h3_index": "89674120e27ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 74,
+    "unique_vehicles": 1,
+    "min_speed": 74,
+    "max_speed": 74
+  },
+  {
+    "h3_index": "89674c5b0cbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 95,
+    "unique_vehicles": 1,
+    "min_speed": 95,
+    "max_speed": 95
+  },
+  {
+    "h3_index": "8967412f3b3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 88,
+    "unique_vehicles": 1,
+    "min_speed": 88,
+    "max_speed": 88
+  },
+  {
+    "h3_index": "8967412703bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 119,
+    "unique_vehicles": 1,
+    "min_speed": 119,
+    "max_speed": 119
+  },
+  {
+    "h3_index": "8967412000fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 95,
+    "unique_vehicles": 1,
+    "min_speed": 95,
+    "max_speed": 95
+  },
+  {
+    "h3_index": "8967412c693ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 39,
+    "unique_vehicles": 1,
+    "min_speed": 39,
+    "max_speed": 39
+  },
+  {
+    "h3_index": "89674124557ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 76,
+    "unique_vehicles": 1,
+    "min_speed": 76,
+    "max_speed": 76
+  },
+  {
+    "h3_index": "8967412e6afffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 87,
+    "unique_vehicles": 1,
+    "min_speed": 87,
+    "max_speed": 87
+  },
+  {
+    "h3_index": "89674127103ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 40,
+    "unique_vehicles": 1,
+    "min_speed": 40,
+    "max_speed": 40
+  },
+  {
+    "h3_index": "89674124c4fffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 66.5,
+    "unique_vehicles": 2,
+    "min_speed": 53,
+    "max_speed": 80
+  },
+  {
+    "h3_index": "8967412e007ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 116,
+    "unique_vehicles": 1,
+    "min_speed": 116,
+    "max_speed": 116
+  },
+  {
+    "h3_index": "8967412452bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 98,
+    "unique_vehicles": 1,
+    "min_speed": 98,
+    "max_speed": 98
+  },
+  {
+    "h3_index": "89674120cd7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 56,
+    "unique_vehicles": 1,
+    "min_speed": 56,
+    "max_speed": 56
+  },
+  {
+    "h3_index": "89674125347ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 115,
+    "unique_vehicles": 1,
+    "min_speed": 115,
+    "max_speed": 115
+  },
+  {
+    "h3_index": "89674125dc3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 34,
+    "unique_vehicles": 1,
+    "min_speed": 34,
+    "max_speed": 34
+  },
+  {
+    "h3_index": "89674125b27ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 51,
+    "unique_vehicles": 1,
+    "min_speed": 51,
+    "max_speed": 51
+  },
+  {
+    "h3_index": "8967412d5b3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 17,
+    "unique_vehicles": 1,
+    "min_speed": 17,
+    "max_speed": 17
+  },
+  {
+    "h3_index": "8967412633bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 83,
+    "unique_vehicles": 1,
+    "min_speed": 83,
+    "max_speed": 83
+  },
+  {
+    "h3_index": "89674135ba7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 118,
+    "unique_vehicles": 1,
+    "min_speed": 118,
+    "max_speed": 118
+  },
+  {
+    "h3_index": "89674125373ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 1,
+    "unique_vehicles": 1,
+    "min_speed": 1,
+    "max_speed": 1
+  },
+  {
+    "h3_index": "8967412e83bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 116,
+    "unique_vehicles": 1,
+    "min_speed": 116,
+    "max_speed": 116
+  },
+  {
+    "h3_index": "8967412ea03ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 77,
+    "unique_vehicles": 1,
+    "min_speed": 77,
+    "max_speed": 77
+  },
+  {
+    "h3_index": "89674c5a567ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 62,
+    "unique_vehicles": 1,
+    "min_speed": 62,
+    "max_speed": 62
+  },
+  {
+    "h3_index": "89674125ccbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 76,
+    "unique_vehicles": 1,
+    "min_speed": 76,
+    "max_speed": 76
+  },
+  {
+    "h3_index": "8967412f457ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 101,
+    "unique_vehicles": 1,
+    "min_speed": 101,
+    "max_speed": 101
+  },
+  {
+    "h3_index": "89674c5b43bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 48,
+    "unique_vehicles": 1,
+    "min_speed": 48,
+    "max_speed": 48
+  },
+  {
+    "h3_index": "8967412ed8bffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 46.5,
+    "unique_vehicles": 2,
+    "min_speed": 5,
+    "max_speed": 88
+  },
+  {
+    "h3_index": "89674120253ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 27,
+    "unique_vehicles": 1,
+    "min_speed": 27,
+    "max_speed": 27
+  },
+  {
+    "h3_index": "89674c5b04bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 114,
+    "unique_vehicles": 1,
+    "min_speed": 114,
+    "max_speed": 114
+  },
+  {
+    "h3_index": "8967412f57bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 108,
+    "unique_vehicles": 1,
+    "min_speed": 108,
+    "max_speed": 108
+  },
+  {
+    "h3_index": "89674122b87ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 17,
+    "unique_vehicles": 1,
+    "min_speed": 17,
+    "max_speed": 17
+  },
+  {
+    "h3_index": "89674125c67ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 74,
+    "unique_vehicles": 1,
+    "min_speed": 74,
+    "max_speed": 74
+  },
+  {
+    "h3_index": "89674121b63ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 91,
+    "unique_vehicles": 1,
+    "min_speed": 91,
+    "max_speed": 91
+  },
+  {
+    "h3_index": "8967412e6abffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 7,
+    "unique_vehicles": 1,
+    "min_speed": 7,
+    "max_speed": 7
+  },
+  {
+    "h3_index": "89674124397ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 76,
+    "unique_vehicles": 1,
+    "min_speed": 76,
+    "max_speed": 76
+  },
+  {
+    "h3_index": "896741240cbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 42,
+    "unique_vehicles": 1,
+    "min_speed": 42,
+    "max_speed": 42
+  },
+  {
+    "h3_index": "89674c5b41bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 95,
+    "unique_vehicles": 1,
+    "min_speed": 95,
+    "max_speed": 95
+  },
+  {
+    "h3_index": "8967412eaabffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 90,
+    "unique_vehicles": 1,
+    "min_speed": 90,
+    "max_speed": 90
+  },
+  {
+    "h3_index": "8967412199bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 6,
+    "unique_vehicles": 1,
+    "min_speed": 6,
+    "max_speed": 6
+  },
+  {
+    "h3_index": "8967412d197ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 57,
+    "unique_vehicles": 1,
+    "min_speed": 57,
+    "max_speed": 57
+  },
+  {
+    "h3_index": "89674124523ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 65,
+    "unique_vehicles": 1,
+    "min_speed": 65,
+    "max_speed": 65
+  },
+  {
+    "h3_index": "8967412dd43ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 21,
+    "unique_vehicles": 1,
+    "min_speed": 21,
+    "max_speed": 21
+  },
+  {
+    "h3_index": "89674124197ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 91,
+    "unique_vehicles": 1,
+    "min_speed": 91,
+    "max_speed": 91
+  },
+  {
+    "h3_index": "89674126acbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 108,
+    "unique_vehicles": 1,
+    "min_speed": 108,
+    "max_speed": 108
+  },
+  {
+    "h3_index": "89674120a13ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 28,
+    "unique_vehicles": 1,
+    "min_speed": 28,
+    "max_speed": 28
+  },
+  {
+    "h3_index": "8967412c35bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 15,
+    "unique_vehicles": 1,
+    "min_speed": 15,
+    "max_speed": 15
+  },
+  {
+    "h3_index": "8967412c8c3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 66,
+    "unique_vehicles": 1,
+    "min_speed": 66,
+    "max_speed": 66
+  },
+  {
+    "h3_index": "89674125d03ffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 105,
+    "unique_vehicles": 2,
+    "min_speed": 96,
+    "max_speed": 114
+  },
+  {
+    "h3_index": "8967412ea0fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 82,
+    "unique_vehicles": 1,
+    "min_speed": 82,
+    "max_speed": 82
+  },
+  {
+    "h3_index": "89674c5a39bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 55,
+    "unique_vehicles": 1,
+    "min_speed": 55,
+    "max_speed": 55
+  },
+  {
+    "h3_index": "8967412e523ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 45,
+    "unique_vehicles": 1,
+    "min_speed": 45,
+    "max_speed": 45
+  },
+  {
+    "h3_index": "8967412467bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 53,
+    "unique_vehicles": 1,
+    "min_speed": 53,
+    "max_speed": 53
+  },
+  {
+    "h3_index": "8967412ea8fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 118,
+    "unique_vehicles": 1,
+    "min_speed": 118,
+    "max_speed": 118
+  },
+  {
+    "h3_index": "8967412dd27ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 96,
+    "unique_vehicles": 1,
+    "min_speed": 96,
+    "max_speed": 96
+  },
+  {
+    "h3_index": "8967412c0b7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 105,
+    "unique_vehicles": 1,
+    "min_speed": 105,
+    "max_speed": 105
+  },
+  {
+    "h3_index": "8967412eed3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 54,
+    "unique_vehicles": 1,
+    "min_speed": 54,
+    "max_speed": 54
+  },
+  {
+    "h3_index": "8967412c113ffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 95.5,
+    "unique_vehicles": 2,
+    "min_speed": 85,
+    "max_speed": 106
+  },
+  {
+    "h3_index": "8967412c9a3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 79,
+    "unique_vehicles": 1,
+    "min_speed": 79,
+    "max_speed": 79
+  },
+  {
+    "h3_index": "89674c5a283ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 46,
+    "unique_vehicles": 1,
+    "min_speed": 46,
+    "max_speed": 46
+  },
+  {
+    "h3_index": "89674122967ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 13,
+    "unique_vehicles": 1,
+    "min_speed": 13,
+    "max_speed": 13
+  },
+  {
+    "h3_index": "8967413595bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 28,
+    "unique_vehicles": 1,
+    "min_speed": 28,
+    "max_speed": 28
+  },
+  {
+    "h3_index": "89674120a2bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 42,
+    "unique_vehicles": 1,
+    "min_speed": 42,
+    "max_speed": 42
+  },
+  {
+    "h3_index": "896741271bbffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 46,
+    "unique_vehicles": 2,
+    "min_speed": 3,
+    "max_speed": 89
+  },
+  {
+    "h3_index": "89674124bdbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 48,
+    "unique_vehicles": 1,
+    "min_speed": 48,
+    "max_speed": 48
+  },
+  {
+    "h3_index": "89674c5b51bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 74,
+    "unique_vehicles": 1,
+    "min_speed": 74,
+    "max_speed": 74
+  },
+  {
+    "h3_index": "89674126277ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 23,
+    "unique_vehicles": 1,
+    "min_speed": 23,
+    "max_speed": 23
+  },
+  {
+    "h3_index": "89674124e0bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 103,
+    "unique_vehicles": 1,
+    "min_speed": 103,
+    "max_speed": 103
+  },
+  {
+    "h3_index": "89674c5b273ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 89,
+    "unique_vehicles": 1,
+    "min_speed": 89,
+    "max_speed": 89
+  },
+  {
+    "h3_index": "8967412ee87ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 23,
+    "unique_vehicles": 1,
+    "min_speed": 23,
+    "max_speed": 23
+  },
+  {
+    "h3_index": "8967412eb73ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 66,
+    "unique_vehicles": 1,
+    "min_speed": 66,
+    "max_speed": 66
+  },
+  {
+    "h3_index": "89674120b67ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 82,
+    "unique_vehicles": 1,
+    "min_speed": 82,
+    "max_speed": 82
+  },
+  {
+    "h3_index": "8967412c837ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 64,
+    "unique_vehicles": 1,
+    "min_speed": 64,
+    "max_speed": 64
+  },
+  {
+    "h3_index": "8967412de87ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 64,
+    "unique_vehicles": 1,
+    "min_speed": 64,
+    "max_speed": 64
+  },
+  {
+    "h3_index": "89674127597ffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 54,
+    "unique_vehicles": 2,
+    "min_speed": 50,
+    "max_speed": 58
+  },
+  {
+    "h3_index": "8967412e0d3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 48,
+    "unique_vehicles": 1,
+    "min_speed": 48,
+    "max_speed": 48
+  },
+  {
+    "h3_index": "89674135b8bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 8,
+    "unique_vehicles": 1,
+    "min_speed": 8,
+    "max_speed": 8
+  },
+  {
+    "h3_index": "8967412ec2bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 92,
+    "unique_vehicles": 1,
+    "min_speed": 92,
+    "max_speed": 92
+  },
+  {
+    "h3_index": "8967412e923ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 6,
+    "unique_vehicles": 1,
+    "min_speed": 6,
+    "max_speed": 6
+  },
+  {
+    "h3_index": "8967412c413ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 82,
+    "unique_vehicles": 1,
+    "min_speed": 82,
+    "max_speed": 82
+  },
+  {
+    "h3_index": "8967412e6dbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 92,
+    "unique_vehicles": 1,
+    "min_speed": 92,
+    "max_speed": 92
+  },
+  {
+    "h3_index": "89674c5b0c7ffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 63.5,
+    "unique_vehicles": 2,
+    "min_speed": 29,
+    "max_speed": 98
+  },
+  {
+    "h3_index": "896741273b3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 111,
+    "unique_vehicles": 1,
+    "min_speed": 111,
+    "max_speed": 111
+  },
+  {
+    "h3_index": "89674124a73ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 8,
+    "unique_vehicles": 1,
+    "min_speed": 8,
+    "max_speed": 8
+  },
+  {
+    "h3_index": "89674120383ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 25,
+    "unique_vehicles": 1,
+    "min_speed": 25,
+    "max_speed": 25
+  },
+  {
+    "h3_index": "8967412eb8bffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 52,
+    "unique_vehicles": 2,
+    "min_speed": 43,
+    "max_speed": 61
+  },
+  {
+    "h3_index": "89674120ba7ffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 90.5,
+    "unique_vehicles": 2,
+    "min_speed": 66,
+    "max_speed": 115
+  },
+  {
+    "h3_index": "896741270a3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 24,
+    "unique_vehicles": 1,
+    "min_speed": 24,
+    "max_speed": 24
+  },
+  {
+    "h3_index": "896741260cfffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 54,
+    "unique_vehicles": 1,
+    "min_speed": 54,
+    "max_speed": 54
+  },
+  {
+    "h3_index": "8967412cec3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 108,
+    "unique_vehicles": 1,
+    "min_speed": 108,
+    "max_speed": 108
+  },
+  {
+    "h3_index": "8967412c023ffff",
+    "point_count": 3,
+    "density_level": "LOW",
+    "avg_speed": 32,
+    "unique_vehicles": 3,
+    "min_speed": 7,
+    "max_speed": 62
+  },
+  {
+    "h3_index": "896741250bbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 48,
+    "unique_vehicles": 1,
+    "min_speed": 48,
+    "max_speed": 48
+  },
+  {
+    "h3_index": "89674127273ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 66,
+    "unique_vehicles": 1,
+    "min_speed": 66,
+    "max_speed": 66
+  },
+  {
+    "h3_index": "8967412c033ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 4,
+    "unique_vehicles": 1,
+    "min_speed": 4,
+    "max_speed": 4
+  },
+  {
+    "h3_index": "8967412e3bbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 67,
+    "unique_vehicles": 1,
+    "min_speed": 67,
+    "max_speed": 67
+  },
+  {
+    "h3_index": "89674121b07ffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 85,
+    "unique_vehicles": 2,
+    "min_speed": 62,
+    "max_speed": 108
+  },
+  {
+    "h3_index": "89674120c97ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 112,
+    "unique_vehicles": 1,
+    "min_speed": 112,
+    "max_speed": 112
+  },
+  {
+    "h3_index": "896741359dbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 95,
+    "unique_vehicles": 1,
+    "min_speed": 95,
+    "max_speed": 95
+  },
+  {
+    "h3_index": "8967412002fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 54,
+    "unique_vehicles": 1,
+    "min_speed": 54,
+    "max_speed": 54
+  },
+  {
+    "h3_index": "8967412e67bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 110,
+    "unique_vehicles": 1,
+    "min_speed": 110,
+    "max_speed": 110
+  },
+  {
+    "h3_index": "89674122aa7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 111,
+    "unique_vehicles": 1,
+    "min_speed": 111,
+    "max_speed": 111
+  },
+  {
+    "h3_index": "8967412cc1bffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 102.5,
+    "unique_vehicles": 2,
+    "min_speed": 92,
+    "max_speed": 113
+  },
+  {
+    "h3_index": "89674125647ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 102,
+    "unique_vehicles": 1,
+    "min_speed": 102,
+    "max_speed": 102
+  },
+  {
+    "h3_index": "89674125523ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 80,
+    "unique_vehicles": 1,
+    "min_speed": 80,
+    "max_speed": 80
+  },
+  {
+    "h3_index": "89674126087ffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 39.5,
+    "unique_vehicles": 2,
+    "min_speed": 4,
+    "max_speed": 75
+  },
+  {
+    "h3_index": "89674125d5bffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 66,
+    "unique_vehicles": 2,
+    "min_speed": 23,
+    "max_speed": 109
+  },
+  {
+    "h3_index": "8967412084bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 26,
+    "unique_vehicles": 1,
+    "min_speed": 26,
+    "max_speed": 26
+  },
+  {
+    "h3_index": "89674121eb7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 58,
+    "unique_vehicles": 1,
+    "min_speed": 58,
+    "max_speed": 58
+  },
+  {
+    "h3_index": "8967412ccbbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 113,
+    "unique_vehicles": 1,
+    "min_speed": 113,
+    "max_speed": 113
+  },
+  {
+    "h3_index": "8967412d9c3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 28,
+    "unique_vehicles": 1,
+    "min_speed": 28,
+    "max_speed": 28
+  },
+  {
+    "h3_index": "89674135a27ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 46,
+    "unique_vehicles": 1,
+    "min_speed": 46,
+    "max_speed": 46
+  },
+  {
+    "h3_index": "89674c5a3dbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 8,
+    "unique_vehicles": 1,
+    "min_speed": 8,
+    "max_speed": 8
+  },
+  {
+    "h3_index": "89674122b03ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 118,
+    "unique_vehicles": 1,
+    "min_speed": 118,
+    "max_speed": 118
+  },
+  {
+    "h3_index": "896741252c3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 77,
+    "unique_vehicles": 1,
+    "min_speed": 77,
+    "max_speed": 77
+  },
+  {
+    "h3_index": "89674120373ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 62,
+    "unique_vehicles": 1,
+    "min_speed": 62,
+    "max_speed": 62
+  },
+  {
+    "h3_index": "8967412440fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 117,
+    "unique_vehicles": 1,
+    "min_speed": 117,
+    "max_speed": 117
+  },
+  {
+    "h3_index": "8967412ce43ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 54,
+    "unique_vehicles": 1,
+    "min_speed": 54,
+    "max_speed": 54
+  },
+  {
+    "h3_index": "896741241b7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 82,
+    "unique_vehicles": 1,
+    "min_speed": 82,
+    "max_speed": 82
+  },
+  {
+    "h3_index": "89674120c6fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 45,
+    "unique_vehicles": 1,
+    "min_speed": 45,
+    "max_speed": 45
+  },
+  {
+    "h3_index": "8967412585bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 75,
+    "unique_vehicles": 1,
+    "min_speed": 75,
+    "max_speed": 75
+  },
+  {
+    "h3_index": "8967412e2b3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 45,
+    "unique_vehicles": 1,
+    "min_speed": 45,
+    "max_speed": 45
+  },
+  {
+    "h3_index": "8967412e58bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 24,
+    "unique_vehicles": 1,
+    "min_speed": 24,
+    "max_speed": 24
+  },
+  {
+    "h3_index": "8967412eb63ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 119,
+    "unique_vehicles": 1,
+    "min_speed": 119,
+    "max_speed": 119
+  },
+  {
+    "h3_index": "89674127317ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 40,
+    "unique_vehicles": 1,
+    "min_speed": 40,
+    "max_speed": 40
+  },
+  {
+    "h3_index": "8967412cb87ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 6,
+    "unique_vehicles": 1,
+    "min_speed": 6,
+    "max_speed": 6
+  },
+  {
+    "h3_index": "896741243abffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 17,
+    "unique_vehicles": 1,
+    "min_speed": 17,
+    "max_speed": 17
+  },
+  {
+    "h3_index": "89674127153ffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 56.5,
+    "unique_vehicles": 2,
+    "min_speed": 10,
+    "max_speed": 103
+  },
+  {
+    "h3_index": "896741253cbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 47,
+    "unique_vehicles": 1,
+    "min_speed": 47,
+    "max_speed": 47
+  },
+  {
+    "h3_index": "8967412ce07ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 87,
+    "unique_vehicles": 1,
+    "min_speed": 87,
+    "max_speed": 87
+  },
+  {
+    "h3_index": "8967412d137ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 43,
+    "unique_vehicles": 1,
+    "min_speed": 43,
+    "max_speed": 43
+  },
+  {
+    "h3_index": "89674121e17ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 57,
+    "unique_vehicles": 1,
+    "min_speed": 57,
+    "max_speed": 57
+  },
+  {
+    "h3_index": "89674124a9bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 99,
+    "unique_vehicles": 1,
+    "min_speed": 99,
+    "max_speed": 99
+  },
+  {
+    "h3_index": "8967412739bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 92,
+    "unique_vehicles": 1,
+    "min_speed": 92,
+    "max_speed": 92
+  },
+  {
+    "h3_index": "8967412e877ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 69,
+    "unique_vehicles": 1,
+    "min_speed": 69,
+    "max_speed": 69
+  },
+  {
+    "h3_index": "8967412646bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 110,
+    "unique_vehicles": 1,
+    "min_speed": 110,
+    "max_speed": 110
+  },
+  {
+    "h3_index": "89674125587ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 72,
+    "unique_vehicles": 1,
+    "min_speed": 72,
+    "max_speed": 72
+  },
+  {
+    "h3_index": "8967412193bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 41,
+    "unique_vehicles": 1,
+    "min_speed": 41,
+    "max_speed": 41
+  },
+  {
+    "h3_index": "8967412e20fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 115,
+    "unique_vehicles": 1,
+    "min_speed": 115,
+    "max_speed": 115
+  },
+  {
+    "h3_index": "89674c5b2afffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 83,
+    "unique_vehicles": 1,
+    "min_speed": 83,
+    "max_speed": 83
+  },
+  {
+    "h3_index": "8967412e2cfffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 24,
+    "unique_vehicles": 1,
+    "min_speed": 24,
+    "max_speed": 24
+  },
+  {
+    "h3_index": "896741259d3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 1,
+    "unique_vehicles": 1,
+    "min_speed": 1,
+    "max_speed": 1
+  },
+  {
+    "h3_index": "89674120db3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 14,
+    "unique_vehicles": 1,
+    "min_speed": 14,
+    "max_speed": 14
+  },
+  {
+    "h3_index": "896741203afffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 35.5,
+    "unique_vehicles": 2,
+    "min_speed": 8,
+    "max_speed": 63
+  },
+  {
+    "h3_index": "8967412419bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 99,
+    "unique_vehicles": 1,
+    "min_speed": 99,
+    "max_speed": 99
+  },
+  {
+    "h3_index": "8967412ed33ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 53,
+    "unique_vehicles": 1,
+    "min_speed": 53,
+    "max_speed": 53
+  },
+  {
+    "h3_index": "89674135a8bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 71,
+    "unique_vehicles": 1,
+    "min_speed": 71,
+    "max_speed": 71
+  },
+  {
+    "h3_index": "89674c5a227ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 36,
+    "unique_vehicles": 1,
+    "min_speed": 36,
+    "max_speed": 36
+  },
+  {
+    "h3_index": "89674120e0bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 105,
+    "unique_vehicles": 1,
+    "min_speed": 105,
+    "max_speed": 105
+  },
+  {
+    "h3_index": "89674c5b46fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 107,
+    "unique_vehicles": 1,
+    "min_speed": 107,
+    "max_speed": 107
+  },
+  {
+    "h3_index": "8967412c083ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 66,
+    "unique_vehicles": 1,
+    "min_speed": 66,
+    "max_speed": 66
+  },
+  {
+    "h3_index": "8967412654bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 62,
+    "unique_vehicles": 1,
+    "min_speed": 62,
+    "max_speed": 62
+  },
+  {
+    "h3_index": "8967412e357ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 73,
+    "unique_vehicles": 1,
+    "min_speed": 73,
+    "max_speed": 73
+  },
+  {
+    "h3_index": "8967412e087ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 100,
+    "unique_vehicles": 1,
+    "min_speed": 100,
+    "max_speed": 100
+  },
+  {
+    "h3_index": "89674124443ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 77,
+    "unique_vehicles": 1,
+    "min_speed": 77,
+    "max_speed": 77
+  },
+  {
+    "h3_index": "89674122b5bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 58,
+    "unique_vehicles": 1,
+    "min_speed": 58,
+    "max_speed": 58
+  },
+  {
+    "h3_index": "896741251cbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 12,
+    "unique_vehicles": 1,
+    "min_speed": 12,
+    "max_speed": 12
+  },
+  {
+    "h3_index": "89674122a47ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 9,
+    "unique_vehicles": 1,
+    "min_speed": 9,
+    "max_speed": 9
+  },
+  {
+    "h3_index": "89674121e83ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 98,
+    "unique_vehicles": 1,
+    "min_speed": 98,
+    "max_speed": 98
+  },
+  {
+    "h3_index": "8967412ed6bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 97,
+    "unique_vehicles": 1,
+    "min_speed": 97,
+    "max_speed": 97
+  },
+  {
+    "h3_index": "8967412f03bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 48,
+    "unique_vehicles": 1,
+    "min_speed": 48,
+    "max_speed": 48
+  },
+  {
+    "h3_index": "8967412c68bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 80,
+    "unique_vehicles": 1,
+    "min_speed": 80,
+    "max_speed": 80
+  },
+  {
+    "h3_index": "89674120047ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 68,
+    "unique_vehicles": 1,
+    "min_speed": 68,
+    "max_speed": 68
+  },
+  {
+    "h3_index": "8967412cd13ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 101,
+    "unique_vehicles": 1,
+    "min_speed": 101,
+    "max_speed": 101
+  },
+  {
+    "h3_index": "89674127187ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 107,
+    "unique_vehicles": 1,
+    "min_speed": 107,
+    "max_speed": 107
+  },
+  {
+    "h3_index": "8967412e327ffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 30,
+    "unique_vehicles": 2,
+    "min_speed": 27,
+    "max_speed": 33
+  },
+  {
+    "h3_index": "896741262cfffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 113,
+    "unique_vehicles": 1,
+    "min_speed": 113,
+    "max_speed": 113
+  },
+  {
+    "h3_index": "89674127443ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 47,
+    "unique_vehicles": 1,
+    "min_speed": 47,
+    "max_speed": 47
+  },
+  {
+    "h3_index": "896741248dbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 111,
+    "unique_vehicles": 1,
+    "min_speed": 111,
+    "max_speed": 111
+  },
+  {
+    "h3_index": "896741240d3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 119,
+    "unique_vehicles": 1,
+    "min_speed": 119,
+    "max_speed": 119
+  },
+  {
+    "h3_index": "8967412d5bbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 10,
+    "unique_vehicles": 1,
+    "min_speed": 10,
+    "max_speed": 10
+  },
+  {
+    "h3_index": "89674125c43ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 100,
+    "unique_vehicles": 1,
+    "min_speed": 100,
+    "max_speed": 100
+  },
+  {
+    "h3_index": "89674127313ffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 89,
+    "unique_vehicles": 2,
+    "min_speed": 62,
+    "max_speed": 116
+  },
+  {
+    "h3_index": "8967412e367ffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 12.5,
+    "unique_vehicles": 2,
+    "min_speed": 3,
+    "max_speed": 22
+  },
+  {
+    "h3_index": "89674124243ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 84,
+    "unique_vehicles": 1,
+    "min_speed": 84,
+    "max_speed": 84
+  },
+  {
+    "h3_index": "89674125aa7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 0,
+    "unique_vehicles": 1,
+    "min_speed": 0,
+    "max_speed": 0
+  },
+  {
+    "h3_index": "89674124ac7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 50,
+    "unique_vehicles": 1,
+    "min_speed": 50,
+    "max_speed": 50
+  },
+  {
+    "h3_index": "8967412584bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 103,
+    "unique_vehicles": 1,
+    "min_speed": 103,
+    "max_speed": 103
+  },
+  {
+    "h3_index": "8967412f3d7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 26,
+    "unique_vehicles": 1,
+    "min_speed": 26,
+    "max_speed": 26
+  },
+  {
+    "h3_index": "89674122a4fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 69,
+    "unique_vehicles": 1,
+    "min_speed": 69,
+    "max_speed": 69
+  },
+  {
+    "h3_index": "8967412e583ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 71,
+    "unique_vehicles": 1,
+    "min_speed": 71,
+    "max_speed": 71
+  },
+  {
+    "h3_index": "89674120d17ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 69,
+    "unique_vehicles": 1,
+    "min_speed": 69,
+    "max_speed": 69
+  },
+  {
+    "h3_index": "8967412e983ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 72,
+    "unique_vehicles": 1,
+    "min_speed": 72,
+    "max_speed": 72
+  },
+  {
+    "h3_index": "89674126663ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 98,
+    "unique_vehicles": 1,
+    "min_speed": 98,
+    "max_speed": 98
+  },
+  {
+    "h3_index": "8967412e253ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 44,
+    "unique_vehicles": 1,
+    "min_speed": 44,
+    "max_speed": 44
+  },
+  {
+    "h3_index": "89674120377ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 90,
+    "unique_vehicles": 1,
+    "min_speed": 90,
+    "max_speed": 90
+  },
+  {
+    "h3_index": "89674c5b213ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 13,
+    "unique_vehicles": 1,
+    "min_speed": 13,
+    "max_speed": 13
+  },
+  {
+    "h3_index": "89674125a2bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 56,
+    "unique_vehicles": 1,
+    "min_speed": 56,
+    "max_speed": 56
+  },
+  {
+    "h3_index": "89674122823ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 59,
+    "unique_vehicles": 1,
+    "min_speed": 59,
+    "max_speed": 59
+  },
+  {
+    "h3_index": "8967412c2b7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 112,
+    "unique_vehicles": 1,
+    "min_speed": 112,
+    "max_speed": 112
+  },
+  {
+    "h3_index": "89674c5a2d3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 54,
+    "unique_vehicles": 1,
+    "min_speed": 54,
+    "max_speed": 54
+  },
+  {
+    "h3_index": "8967412480bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 51,
+    "unique_vehicles": 1,
+    "min_speed": 51,
+    "max_speed": 51
+  },
+  {
+    "h3_index": "8967412c187ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 57,
+    "unique_vehicles": 1,
+    "min_speed": 57,
+    "max_speed": 57
+  },
+  {
+    "h3_index": "89674c5b1b7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 115,
+    "unique_vehicles": 1,
+    "min_speed": 115,
+    "max_speed": 115
+  },
+  {
+    "h3_index": "89674126687ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 107,
+    "unique_vehicles": 1,
+    "min_speed": 107,
+    "max_speed": 107
+  },
+  {
+    "h3_index": "89674c5a407ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 29,
+    "unique_vehicles": 1,
+    "min_speed": 29,
+    "max_speed": 29
+  },
+  {
+    "h3_index": "89674124a67ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 20,
+    "unique_vehicles": 1,
+    "min_speed": 20,
+    "max_speed": 20
+  },
+  {
+    "h3_index": "89674124a2fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 20,
+    "unique_vehicles": 1,
+    "min_speed": 20,
+    "max_speed": 20
+  },
+  {
+    "h3_index": "8967412016bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 120,
+    "unique_vehicles": 1,
+    "min_speed": 120,
+    "max_speed": 120
+  },
+  {
+    "h3_index": "8967412eecbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 97,
+    "unique_vehicles": 1,
+    "min_speed": 97,
+    "max_speed": 97
+  },
+  {
+    "h3_index": "89674124317ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 52,
+    "unique_vehicles": 1,
+    "min_speed": 52,
+    "max_speed": 52
+  },
+  {
+    "h3_index": "8967412588bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 61,
+    "unique_vehicles": 1,
+    "min_speed": 61,
+    "max_speed": 61
+  },
+  {
+    "h3_index": "8967412c393ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 96,
+    "unique_vehicles": 1,
+    "min_speed": 96,
+    "max_speed": 96
+  },
+  {
+    "h3_index": "8967412c07bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 16,
+    "unique_vehicles": 1,
+    "min_speed": 16,
+    "max_speed": 16
+  },
+  {
+    "h3_index": "89674134a7bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 24,
+    "unique_vehicles": 1,
+    "min_speed": 24,
+    "max_speed": 24
+  },
+  {
+    "h3_index": "8967412e8cfffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 117,
+    "unique_vehicles": 1,
+    "min_speed": 117,
+    "max_speed": 117
+  },
+  {
+    "h3_index": "89674125a0fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 67,
+    "unique_vehicles": 1,
+    "min_speed": 67,
+    "max_speed": 67
+  },
+  {
+    "h3_index": "8967412f49bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 64,
+    "unique_vehicles": 1,
+    "min_speed": 64,
+    "max_speed": 64
+  },
+  {
+    "h3_index": "8967412516bffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 77,
+    "unique_vehicles": 2,
+    "min_speed": 38,
+    "max_speed": 116
+  },
+  {
+    "h3_index": "896741219c7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 78,
+    "unique_vehicles": 1,
+    "min_speed": 78,
+    "max_speed": 78
+  },
+  {
+    "h3_index": "8967412c59bffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 62.5,
+    "unique_vehicles": 2,
+    "min_speed": 51,
+    "max_speed": 74
+  },
+  {
+    "h3_index": "8967412e527ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 51,
+    "unique_vehicles": 1,
+    "min_speed": 51,
+    "max_speed": 51
+  },
+  {
+    "h3_index": "89674120e7bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 59,
+    "unique_vehicles": 1,
+    "min_speed": 59,
+    "max_speed": 59
+  },
+  {
+    "h3_index": "896741255cbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 118,
+    "unique_vehicles": 1,
+    "min_speed": 118,
+    "max_speed": 118
+  },
+  {
+    "h3_index": "8967412cc07ffff",
+    "point_count": 3,
+    "density_level": "LOW",
+    "avg_speed": 87.67,
+    "unique_vehicles": 3,
+    "min_speed": 64,
+    "max_speed": 115
+  },
+  {
+    "h3_index": "89674121103ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 20,
+    "unique_vehicles": 1,
+    "min_speed": 20,
+    "max_speed": 20
+  },
+  {
+    "h3_index": "8967412598fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 85,
+    "unique_vehicles": 1,
+    "min_speed": 85,
+    "max_speed": 85
+  },
+  {
+    "h3_index": "8967412458fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 16,
+    "unique_vehicles": 1,
+    "min_speed": 16,
+    "max_speed": 16
+  },
+  {
+    "h3_index": "89674120203ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 115,
+    "unique_vehicles": 1,
+    "min_speed": 115,
+    "max_speed": 115
+  },
+  {
+    "h3_index": "8967412c64fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 27,
+    "unique_vehicles": 1,
+    "min_speed": 27,
+    "max_speed": 27
+  },
+  {
+    "h3_index": "89674c5b2cbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 46,
+    "unique_vehicles": 1,
+    "min_speed": 46,
+    "max_speed": 46
+  },
+  {
+    "h3_index": "8967412ca33ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 79,
+    "unique_vehicles": 1,
+    "min_speed": 79,
+    "max_speed": 79
+  },
+  {
+    "h3_index": "89674c5b0b3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 85,
+    "unique_vehicles": 1,
+    "min_speed": 85,
+    "max_speed": 85
+  },
+  {
+    "h3_index": "8967412cc83ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 21,
+    "unique_vehicles": 1,
+    "min_speed": 21,
+    "max_speed": 21
+  },
+  {
+    "h3_index": "8967412c403ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 102,
+    "unique_vehicles": 1,
+    "min_speed": 102,
+    "max_speed": 102
+  },
+  {
+    "h3_index": "8967412f5bbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 68,
+    "unique_vehicles": 1,
+    "min_speed": 68,
+    "max_speed": 68
+  },
+  {
+    "h3_index": "8967412e40fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 93,
+    "unique_vehicles": 1,
+    "min_speed": 93,
+    "max_speed": 93
+  },
+  {
+    "h3_index": "8967412c593ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 43,
+    "unique_vehicles": 1,
+    "min_speed": 43,
+    "max_speed": 43
+  },
+  {
+    "h3_index": "89674125867ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 74,
+    "unique_vehicles": 1,
+    "min_speed": 74,
+    "max_speed": 74
+  },
+  {
+    "h3_index": "89674120d7bffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 30.5,
+    "unique_vehicles": 2,
+    "min_speed": 7,
+    "max_speed": 54
+  },
+  {
+    "h3_index": "8967412e243ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 15,
+    "unique_vehicles": 1,
+    "min_speed": 15,
+    "max_speed": 15
+  },
+  {
+    "h3_index": "8967412da87ffff",
+    "point_count": 3,
+    "density_level": "LOW",
+    "avg_speed": 58.33,
+    "unique_vehicles": 3,
+    "min_speed": 47,
+    "max_speed": 64
+  },
+  {
+    "h3_index": "896741256c7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 38,
+    "unique_vehicles": 1,
+    "min_speed": 38,
+    "max_speed": 38
+  },
+  {
+    "h3_index": "89674125593ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 117,
+    "unique_vehicles": 1,
+    "min_speed": 117,
+    "max_speed": 117
+  },
+  {
+    "h3_index": "89674124ac3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 115,
+    "unique_vehicles": 1,
+    "min_speed": 115,
+    "max_speed": 115
+  },
+  {
+    "h3_index": "8967412eb47ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 63,
+    "unique_vehicles": 1,
+    "min_speed": 63,
+    "max_speed": 63
+  },
+  {
+    "h3_index": "8967412d13bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 46,
+    "unique_vehicles": 1,
+    "min_speed": 46,
+    "max_speed": 46
+  },
+  {
+    "h3_index": "8967412513bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 22,
+    "unique_vehicles": 1,
+    "min_speed": 22,
+    "max_speed": 22
+  },
+  {
+    "h3_index": "8967412f14fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 0,
+    "unique_vehicles": 1,
+    "min_speed": 0,
+    "max_speed": 0
+  },
+  {
+    "h3_index": "8967412c03bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 70,
+    "unique_vehicles": 1,
+    "min_speed": 70,
+    "max_speed": 70
+  },
+  {
+    "h3_index": "89674125237ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 114,
+    "unique_vehicles": 1,
+    "min_speed": 114,
+    "max_speed": 114
+  },
+  {
+    "h3_index": "8967412c56bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 21,
+    "unique_vehicles": 1,
+    "min_speed": 21,
+    "max_speed": 21
+  },
+  {
+    "h3_index": "8967412606bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 107,
+    "unique_vehicles": 1,
+    "min_speed": 107,
+    "max_speed": 107
+  },
+  {
+    "h3_index": "8967412ea3bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 47,
+    "unique_vehicles": 1,
+    "min_speed": 47,
+    "max_speed": 47
+  },
+  {
+    "h3_index": "89674122b07ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 3,
+    "unique_vehicles": 1,
+    "min_speed": 3,
+    "max_speed": 3
+  },
+  {
+    "h3_index": "89674124347ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 20,
+    "unique_vehicles": 1,
+    "min_speed": 20,
+    "max_speed": 20
+  },
+  {
+    "h3_index": "8967412f0c7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 2,
+    "unique_vehicles": 1,
+    "min_speed": 2,
+    "max_speed": 2
+  },
+  {
+    "h3_index": "896741256dbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 7,
+    "unique_vehicles": 1,
+    "min_speed": 7,
+    "max_speed": 7
+  },
+  {
+    "h3_index": "896741262a3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 27,
+    "unique_vehicles": 1,
+    "min_speed": 27,
+    "max_speed": 27
+  },
+  {
+    "h3_index": "89674125d6fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 12,
+    "unique_vehicles": 1,
+    "min_speed": 12,
+    "max_speed": 12
+  },
+  {
+    "h3_index": "8967412e3c7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 47,
+    "unique_vehicles": 1,
+    "min_speed": 47,
+    "max_speed": 47
+  },
+  {
+    "h3_index": "8967412d507ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 104,
+    "unique_vehicles": 1,
+    "min_speed": 104,
+    "max_speed": 104
+  },
+  {
+    "h3_index": "89674c5b5d7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 13,
+    "unique_vehicles": 1,
+    "min_speed": 13,
+    "max_speed": 13
+  },
+  {
+    "h3_index": "8967412c2b3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 34,
+    "unique_vehicles": 1,
+    "min_speed": 34,
+    "max_speed": 34
+  },
+  {
+    "h3_index": "8967412d85bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 36,
+    "unique_vehicles": 1,
+    "min_speed": 36,
+    "max_speed": 36
+  },
+  {
+    "h3_index": "89674125017ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 2,
+    "unique_vehicles": 1,
+    "min_speed": 2,
+    "max_speed": 2
+  },
+  {
+    "h3_index": "8967412e073ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 96,
+    "unique_vehicles": 1,
+    "min_speed": 96,
+    "max_speed": 96
+  },
+  {
+    "h3_index": "8967412ed0fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 74,
+    "unique_vehicles": 1,
+    "min_speed": 74,
+    "max_speed": 74
+  },
+  {
+    "h3_index": "8967412d187ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 66,
+    "unique_vehicles": 1,
+    "min_speed": 66,
+    "max_speed": 66
+  },
+  {
+    "h3_index": "8967412cdd3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 95,
+    "unique_vehicles": 1,
+    "min_speed": 95,
+    "max_speed": 95
+  },
+  {
+    "h3_index": "89674c5b4c3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 3,
+    "unique_vehicles": 1,
+    "min_speed": 3,
+    "max_speed": 3
+  },
+  {
+    "h3_index": "896741271afffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 101,
+    "unique_vehicles": 1,
+    "min_speed": 101,
+    "max_speed": 101
+  },
+  {
+    "h3_index": "89674121bb7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 113,
+    "unique_vehicles": 1,
+    "min_speed": 113,
+    "max_speed": 113
+  },
+  {
+    "h3_index": "89674124167ffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 111,
+    "unique_vehicles": 2,
+    "min_speed": 105,
+    "max_speed": 117
+  },
+  {
+    "h3_index": "89674124357ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 76,
+    "unique_vehicles": 1,
+    "min_speed": 76,
+    "max_speed": 76
+  },
+  {
+    "h3_index": "8967412038bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 0,
+    "unique_vehicles": 1,
+    "min_speed": 0,
+    "max_speed": 0
+  },
+  {
+    "h3_index": "89674120d57ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 52,
+    "unique_vehicles": 1,
+    "min_speed": 52,
+    "max_speed": 52
+  },
+  {
+    "h3_index": "8967412455bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 48,
+    "unique_vehicles": 1,
+    "min_speed": 48,
+    "max_speed": 48
+  },
+  {
+    "h3_index": "89674125573ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 0,
+    "unique_vehicles": 1,
+    "min_speed": 0,
+    "max_speed": 0
+  },
+  {
+    "h3_index": "89674125097ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 109,
+    "unique_vehicles": 1,
+    "min_speed": 109,
+    "max_speed": 109
+  },
+  {
+    "h3_index": "8967412c90bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 67,
+    "unique_vehicles": 1,
+    "min_speed": 67,
+    "max_speed": 67
+  },
+  {
+    "h3_index": "8967412e30fffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 60,
+    "unique_vehicles": 2,
+    "min_speed": 20,
+    "max_speed": 100
+  },
+  {
+    "h3_index": "89674126033ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 3,
+    "unique_vehicles": 1,
+    "min_speed": 3,
+    "max_speed": 3
+  },
+  {
+    "h3_index": "8967412c3b7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 112,
+    "unique_vehicles": 1,
+    "min_speed": 112,
+    "max_speed": 112
+  },
+  {
+    "h3_index": "8967412cb8bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 13,
+    "unique_vehicles": 1,
+    "min_speed": 13,
+    "max_speed": 13
+  },
+  {
+    "h3_index": "8967412096fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 29,
+    "unique_vehicles": 1,
+    "min_speed": 29,
+    "max_speed": 29
+  },
+  {
+    "h3_index": "8967412c117ffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 54,
+    "unique_vehicles": 2,
+    "min_speed": 48,
+    "max_speed": 60
+  },
+  {
+    "h3_index": "896741264d7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 96,
+    "unique_vehicles": 1,
+    "min_speed": 96,
+    "max_speed": 96
+  },
+  {
+    "h3_index": "89674125457ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 18,
+    "unique_vehicles": 1,
+    "min_speed": 18,
+    "max_speed": 18
+  },
+  {
+    "h3_index": "89674120da3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 26,
+    "unique_vehicles": 1,
+    "min_speed": 26,
+    "max_speed": 26
+  },
+  {
+    "h3_index": "89674124ad7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 21,
+    "unique_vehicles": 1,
+    "min_speed": 21,
+    "max_speed": 21
+  },
+  {
+    "h3_index": "8967412e953ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 57,
+    "unique_vehicles": 1,
+    "min_speed": 57,
+    "max_speed": 57
+  },
+  {
+    "h3_index": "89674124653ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 89,
+    "unique_vehicles": 1,
+    "min_speed": 89,
+    "max_speed": 89
+  },
+  {
+    "h3_index": "8967412e4cfffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 111,
+    "unique_vehicles": 1,
+    "min_speed": 111,
+    "max_speed": 111
+  },
+  {
+    "h3_index": "89674c5b4a7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 54,
+    "unique_vehicles": 1,
+    "min_speed": 54,
+    "max_speed": 54
+  },
+  {
+    "h3_index": "8967412edb3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 35,
+    "unique_vehicles": 1,
+    "min_speed": 35,
+    "max_speed": 35
+  },
+  {
+    "h3_index": "896741200a3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 23,
+    "unique_vehicles": 1,
+    "min_speed": 23,
+    "max_speed": 23
+  },
+  {
+    "h3_index": "8967412555bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 76,
+    "unique_vehicles": 1,
+    "min_speed": 76,
+    "max_speed": 76
+  },
+  {
+    "h3_index": "89674125b5bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 64,
+    "unique_vehicles": 1,
+    "min_speed": 64,
+    "max_speed": 64
+  },
+  {
+    "h3_index": "8967412cc53ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 78,
+    "unique_vehicles": 1,
+    "min_speed": 78,
+    "max_speed": 78
+  },
+  {
+    "h3_index": "89674135b6fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 62,
+    "unique_vehicles": 1,
+    "min_speed": 62,
+    "max_speed": 62
+  },
+  {
+    "h3_index": "89674c5b433ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 70,
+    "unique_vehicles": 1,
+    "min_speed": 70,
+    "max_speed": 70
+  },
+  {
+    "h3_index": "8967412e68bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 20,
+    "unique_vehicles": 1,
+    "min_speed": 20,
+    "max_speed": 20
+  },
+  {
+    "h3_index": "89674c5b567ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 2,
+    "unique_vehicles": 1,
+    "min_speed": 2,
+    "max_speed": 2
+  },
+  {
+    "h3_index": "8967412e34bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 19,
+    "unique_vehicles": 1,
+    "min_speed": 19,
+    "max_speed": 19
+  },
+  {
+    "h3_index": "89674121d53ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 37,
+    "unique_vehicles": 1,
+    "min_speed": 37,
+    "max_speed": 37
+  },
+  {
+    "h3_index": "8967412ea8bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 14,
+    "unique_vehicles": 1,
+    "min_speed": 14,
+    "max_speed": 14
+  },
+  {
+    "h3_index": "8967412192bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 105,
+    "unique_vehicles": 1,
+    "min_speed": 105,
+    "max_speed": 105
+  },
+  {
+    "h3_index": "8967412e50fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 2,
+    "unique_vehicles": 1,
+    "min_speed": 2,
+    "max_speed": 2
+  },
+  {
+    "h3_index": "8967412e017ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 32,
+    "unique_vehicles": 1,
+    "min_speed": 32,
+    "max_speed": 32
+  },
+  {
+    "h3_index": "89674125a2fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 77,
+    "unique_vehicles": 1,
+    "min_speed": 77,
+    "max_speed": 77
+  },
+  {
+    "h3_index": "8967412ddd7ffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 36.5,
+    "unique_vehicles": 2,
+    "min_speed": 12,
+    "max_speed": 61
+  },
+  {
+    "h3_index": "89674121c6bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 65,
+    "unique_vehicles": 1,
+    "min_speed": 65,
+    "max_speed": 65
+  },
+  {
+    "h3_index": "89674125e7bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 10,
+    "unique_vehicles": 1,
+    "min_speed": 10,
+    "max_speed": 10
+  },
+  {
+    "h3_index": "89674c5b2a3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 102,
+    "unique_vehicles": 1,
+    "min_speed": 102,
+    "max_speed": 102
+  },
+  {
+    "h3_index": "8967412db9bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 95,
+    "unique_vehicles": 1,
+    "min_speed": 95,
+    "max_speed": 95
+  },
+  {
+    "h3_index": "8967412d863ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 35,
+    "unique_vehicles": 1,
+    "min_speed": 35,
+    "max_speed": 35
+  },
+  {
+    "h3_index": "8967412c5a7ffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 49,
+    "unique_vehicles": 2,
+    "min_speed": 37,
+    "max_speed": 61
+  },
+  {
+    "h3_index": "89674c5a667ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 3,
+    "unique_vehicles": 1,
+    "min_speed": 3,
+    "max_speed": 3
+  },
+  {
+    "h3_index": "8967412d5b7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 73,
+    "unique_vehicles": 1,
+    "min_speed": 73,
+    "max_speed": 73
+  },
+  {
+    "h3_index": "89674121c0bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 59,
+    "unique_vehicles": 1,
+    "min_speed": 59,
+    "max_speed": 59
+  },
+  {
+    "h3_index": "89674120b8bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 0,
+    "unique_vehicles": 1,
+    "min_speed": 0,
+    "max_speed": 0
+  },
+  {
+    "h3_index": "89674127333ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 30,
+    "unique_vehicles": 1,
+    "min_speed": 30,
+    "max_speed": 30
+  },
+  {
+    "h3_index": "8967412e27bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 57,
+    "unique_vehicles": 1,
+    "min_speed": 57,
+    "max_speed": 57
+  },
+  {
+    "h3_index": "8967412ccc3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 76,
+    "unique_vehicles": 1,
+    "min_speed": 76,
+    "max_speed": 76
+  },
+  {
+    "h3_index": "89674126603ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 98,
+    "unique_vehicles": 1,
+    "min_speed": 98,
+    "max_speed": 98
+  },
+  {
+    "h3_index": "8967412e967ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 7,
+    "unique_vehicles": 1,
+    "min_speed": 7,
+    "max_speed": 7
+  },
+  {
+    "h3_index": "8967412582bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 89,
+    "unique_vehicles": 1,
+    "min_speed": 89,
+    "max_speed": 89
+  },
+  {
+    "h3_index": "8967412ccb3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 7,
+    "unique_vehicles": 1,
+    "min_speed": 7,
+    "max_speed": 7
+  },
+  {
+    "h3_index": "8967412ee8fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 67,
+    "unique_vehicles": 1,
+    "min_speed": 67,
+    "max_speed": 67
+  },
+  {
+    "h3_index": "8967412621bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 106,
+    "unique_vehicles": 1,
+    "min_speed": 106,
+    "max_speed": 106
+  },
+  {
+    "h3_index": "8967412e323ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 23,
+    "unique_vehicles": 1,
+    "min_speed": 23,
+    "max_speed": 23
+  },
+  {
+    "h3_index": "89674122bbbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 11,
+    "unique_vehicles": 1,
+    "min_speed": 11,
+    "max_speed": 11
+  },
+  {
+    "h3_index": "89674120d77ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 92,
+    "unique_vehicles": 1,
+    "min_speed": 92,
+    "max_speed": 92
+  },
+  {
+    "h3_index": "89674127167ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 18,
+    "unique_vehicles": 1,
+    "min_speed": 18,
+    "max_speed": 18
+  },
+  {
+    "h3_index": "89674126047ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 40,
+    "unique_vehicles": 1,
+    "min_speed": 40,
+    "max_speed": 40
+  },
+  {
+    "h3_index": "89674125393ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 79,
+    "unique_vehicles": 1,
+    "min_speed": 79,
+    "max_speed": 79
+  },
+  {
+    "h3_index": "8967412ec27ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 16,
+    "unique_vehicles": 1,
+    "min_speed": 16,
+    "max_speed": 16
+  },
+  {
+    "h3_index": "89674c5a0cbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 51,
+    "unique_vehicles": 1,
+    "min_speed": 51,
+    "max_speed": 51
+  },
+  {
+    "h3_index": "8967412f327ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 1,
+    "unique_vehicles": 1,
+    "min_speed": 1,
+    "max_speed": 1
+  },
+  {
+    "h3_index": "89674c5b397ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 24,
+    "unique_vehicles": 1,
+    "min_speed": 24,
+    "max_speed": 24
+  },
+  {
+    "h3_index": "8967412d8a7ffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 75,
+    "unique_vehicles": 2,
+    "min_speed": 36,
+    "max_speed": 114
+  },
+  {
+    "h3_index": "8967412dbd3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 46,
+    "unique_vehicles": 1,
+    "min_speed": 46,
+    "max_speed": 46
+  },
+  {
+    "h3_index": "89674124e83ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 67,
+    "unique_vehicles": 1,
+    "min_speed": 67,
+    "max_speed": 67
+  },
+  {
+    "h3_index": "8967412e887ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 74,
+    "unique_vehicles": 1,
+    "min_speed": 74,
+    "max_speed": 74
+  },
+  {
+    "h3_index": "8967412551bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 12,
+    "unique_vehicles": 1,
+    "min_speed": 12,
+    "max_speed": 12
+  },
+  {
+    "h3_index": "8967412294bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 17,
+    "unique_vehicles": 1,
+    "min_speed": 17,
+    "max_speed": 17
+  },
+  {
+    "h3_index": "896741258d7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 39,
+    "unique_vehicles": 1,
+    "min_speed": 39,
+    "max_speed": 39
+  },
+  {
+    "h3_index": "89674125057ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 81,
+    "unique_vehicles": 1,
+    "min_speed": 81,
+    "max_speed": 81
+  },
+  {
+    "h3_index": "8967412036bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 79,
+    "unique_vehicles": 1,
+    "min_speed": 79,
+    "max_speed": 79
+  },
+  {
+    "h3_index": "8967412cd63ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 79,
+    "unique_vehicles": 1,
+    "min_speed": 79,
+    "max_speed": 79
+  },
+  {
+    "h3_index": "89674121ed7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 55,
+    "unique_vehicles": 1,
+    "min_speed": 55,
+    "max_speed": 55
+  },
+  {
+    "h3_index": "8967412d123ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 48,
+    "unique_vehicles": 1,
+    "min_speed": 48,
+    "max_speed": 48
+  },
+  {
+    "h3_index": "89674124497ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 89,
+    "unique_vehicles": 1,
+    "min_speed": 89,
+    "max_speed": 89
+  },
+  {
+    "h3_index": "89674c5a0dbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 81,
+    "unique_vehicles": 1,
+    "min_speed": 81,
+    "max_speed": 81
+  },
+  {
+    "h3_index": "8967412c987ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 75,
+    "unique_vehicles": 1,
+    "min_speed": 75,
+    "max_speed": 75
+  },
+  {
+    "h3_index": "8967412e1abffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 89,
+    "unique_vehicles": 1,
+    "min_speed": 89,
+    "max_speed": 89
+  },
+  {
+    "h3_index": "89674120d4bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 13,
+    "unique_vehicles": 1,
+    "min_speed": 13,
+    "max_speed": 13
+  },
+  {
+    "h3_index": "89674125627ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 64,
+    "unique_vehicles": 1,
+    "min_speed": 64,
+    "max_speed": 64
+  },
+  {
+    "h3_index": "89674121cabffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 13,
+    "unique_vehicles": 1,
+    "min_speed": 13,
+    "max_speed": 13
+  },
+  {
+    "h3_index": "89674120347ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 105,
+    "unique_vehicles": 1,
+    "min_speed": 105,
+    "max_speed": 105
+  },
+  {
+    "h3_index": "8967412eaa7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 108,
+    "unique_vehicles": 1,
+    "min_speed": 108,
+    "max_speed": 108
+  },
+  {
+    "h3_index": "89674126093ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 14,
+    "unique_vehicles": 1,
+    "min_speed": 14,
+    "max_speed": 14
+  },
+  {
+    "h3_index": "89674c5b44fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 89,
+    "unique_vehicles": 1,
+    "min_speed": 89,
+    "max_speed": 89
+  },
+  {
+    "h3_index": "8967412dcdbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 70,
+    "unique_vehicles": 1,
+    "min_speed": 70,
+    "max_speed": 70
+  },
+  {
+    "h3_index": "89674127023ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 22,
+    "unique_vehicles": 1,
+    "min_speed": 22,
+    "max_speed": 22
+  },
+  {
+    "h3_index": "8967412752bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 80,
+    "unique_vehicles": 1,
+    "min_speed": 80,
+    "max_speed": 80
+  },
+  {
+    "h3_index": "89674120bbbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 32,
+    "unique_vehicles": 1,
+    "min_speed": 32,
+    "max_speed": 32
+  },
+  {
+    "h3_index": "8967412ebabffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 64.5,
+    "unique_vehicles": 2,
+    "min_speed": 60,
+    "max_speed": 69
+  },
+  {
+    "h3_index": "896741266c7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 70,
+    "unique_vehicles": 1,
+    "min_speed": 70,
+    "max_speed": 70
+  },
+  {
+    "h3_index": "8967412c08bffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 76.5,
+    "unique_vehicles": 2,
+    "min_speed": 59,
+    "max_speed": 94
+  },
+  {
+    "h3_index": "8967412d9b7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 69,
+    "unique_vehicles": 1,
+    "min_speed": 69,
+    "max_speed": 69
+  },
+  {
+    "h3_index": "8967412c19bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 84,
+    "unique_vehicles": 1,
+    "min_speed": 84,
+    "max_speed": 84
+  },
+  {
+    "h3_index": "8967412113bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 5,
+    "unique_vehicles": 1,
+    "min_speed": 5,
+    "max_speed": 5
+  },
+  {
+    "h3_index": "8967412026fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 7,
+    "unique_vehicles": 1,
+    "min_speed": 7,
+    "max_speed": 7
+  },
+  {
+    "h3_index": "8967412ee23ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 51,
+    "unique_vehicles": 1,
+    "min_speed": 51,
+    "max_speed": 51
+  },
+  {
+    "h3_index": "896741276b3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 118,
+    "unique_vehicles": 1,
+    "min_speed": 118,
+    "max_speed": 118
+  },
+  {
+    "h3_index": "89674c5b1c3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 111,
+    "unique_vehicles": 1,
+    "min_speed": 111,
+    "max_speed": 111
+  },
+  {
+    "h3_index": "89674124a23ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 115,
+    "unique_vehicles": 1,
+    "min_speed": 115,
+    "max_speed": 115
+  },
+  {
+    "h3_index": "8967412e2bbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 65,
+    "unique_vehicles": 1,
+    "min_speed": 65,
+    "max_speed": 65
+  },
+  {
+    "h3_index": "89674125817ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 103,
+    "unique_vehicles": 1,
+    "min_speed": 103,
+    "max_speed": 103
+  },
+  {
+    "h3_index": "89674c5b0a7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 49,
+    "unique_vehicles": 1,
+    "min_speed": 49,
+    "max_speed": 49
+  },
+  {
+    "h3_index": "89674121927ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 69,
+    "unique_vehicles": 1,
+    "min_speed": 69,
+    "max_speed": 69
+  },
+  {
+    "h3_index": "896741250dbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 41,
+    "unique_vehicles": 1,
+    "min_speed": 41,
+    "max_speed": 41
+  },
+  {
+    "h3_index": "89674135997ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 29,
+    "unique_vehicles": 1,
+    "min_speed": 29,
+    "max_speed": 29
+  },
+  {
+    "h3_index": "8967412cd47ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 28,
+    "unique_vehicles": 1,
+    "min_speed": 28,
+    "max_speed": 28
+  },
+  {
+    "h3_index": "89674125853ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 55,
+    "unique_vehicles": 1,
+    "min_speed": 55,
+    "max_speed": 55
+  },
+  {
+    "h3_index": "89674126017ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 74,
+    "unique_vehicles": 1,
+    "min_speed": 74,
+    "max_speed": 74
+  },
+  {
+    "h3_index": "8967412768fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 101,
+    "unique_vehicles": 1,
+    "min_speed": 101,
+    "max_speed": 101
+  },
+  {
+    "h3_index": "89674125917ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 0,
+    "unique_vehicles": 1,
+    "min_speed": 0,
+    "max_speed": 0
+  },
+  {
+    "h3_index": "8967412e84fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 52,
+    "unique_vehicles": 1,
+    "min_speed": 52,
+    "max_speed": 52
+  },
+  {
+    "h3_index": "89674c5b683ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 89,
+    "unique_vehicles": 1,
+    "min_speed": 89,
+    "max_speed": 89
+  },
+  {
+    "h3_index": "89674125203ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 19,
+    "unique_vehicles": 1,
+    "min_speed": 19,
+    "max_speed": 19
+  },
+  {
+    "h3_index": "8967412c163ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 98,
+    "unique_vehicles": 1,
+    "min_speed": 98,
+    "max_speed": 98
+  },
+  {
+    "h3_index": "89674c5a6dbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 106,
+    "unique_vehicles": 1,
+    "min_speed": 106,
+    "max_speed": 106
+  },
+  {
+    "h3_index": "89674127677ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 41,
+    "unique_vehicles": 1,
+    "min_speed": 41,
+    "max_speed": 41
+  },
+  {
+    "h3_index": "896741264cbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 102,
+    "unique_vehicles": 1,
+    "min_speed": 102,
+    "max_speed": 102
+  },
+  {
+    "h3_index": "89674125bc7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 69,
+    "unique_vehicles": 1,
+    "min_speed": 69,
+    "max_speed": 69
+  },
+  {
+    "h3_index": "89674c5a463ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 54,
+    "unique_vehicles": 1,
+    "min_speed": 54,
+    "max_speed": 54
+  },
+  {
+    "h3_index": "89674125273ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 29,
+    "unique_vehicles": 1,
+    "min_speed": 29,
+    "max_speed": 29
+  },
+  {
+    "h3_index": "89674120cd3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 13,
+    "unique_vehicles": 1,
+    "min_speed": 13,
+    "max_speed": 13
+  },
+  {
+    "h3_index": "89674c5b1d3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 47,
+    "unique_vehicles": 1,
+    "min_speed": 47,
+    "max_speed": 47
+  },
+  {
+    "h3_index": "89674120bafffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 46,
+    "unique_vehicles": 1,
+    "min_speed": 46,
+    "max_speed": 46
+  },
+  {
+    "h3_index": "89674125b57ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 1,
+    "unique_vehicles": 1,
+    "min_speed": 1,
+    "max_speed": 1
+  },
+  {
+    "h3_index": "89674c5b1b3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 87,
+    "unique_vehicles": 1,
+    "min_speed": 87,
+    "max_speed": 87
+  },
+  {
+    "h3_index": "89674121113ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 20,
+    "unique_vehicles": 1,
+    "min_speed": 20,
+    "max_speed": 20
+  },
+  {
+    "h3_index": "8967412c16bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 32,
+    "unique_vehicles": 1,
+    "min_speed": 32,
+    "max_speed": 32
+  },
+  {
+    "h3_index": "89674c5b517ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 65,
+    "unique_vehicles": 1,
+    "min_speed": 65,
+    "max_speed": 65
+  },
+  {
+    "h3_index": "8967412737bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 40,
+    "unique_vehicles": 1,
+    "min_speed": 40,
+    "max_speed": 40
+  },
+  {
+    "h3_index": "8967412ce4bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 78,
+    "unique_vehicles": 1,
+    "min_speed": 78,
+    "max_speed": 78
+  },
+  {
+    "h3_index": "8967412f557ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 115,
+    "unique_vehicles": 1,
+    "min_speed": 115,
+    "max_speed": 115
+  },
+  {
+    "h3_index": "89674c5b65bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 100,
+    "unique_vehicles": 1,
+    "min_speed": 100,
+    "max_speed": 100
+  },
+  {
+    "h3_index": "8967412c1cbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 90,
+    "unique_vehicles": 1,
+    "min_speed": 90,
+    "max_speed": 90
+  },
+  {
+    "h3_index": "89674121ccbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 38,
+    "unique_vehicles": 1,
+    "min_speed": 38,
+    "max_speed": 38
+  },
+  {
+    "h3_index": "89674127263ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 68,
+    "unique_vehicles": 1,
+    "min_speed": 68,
+    "max_speed": 68
+  },
+  {
+    "h3_index": "8967412c367ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 37,
+    "unique_vehicles": 1,
+    "min_speed": 37,
+    "max_speed": 37
+  },
+  {
+    "h3_index": "8967412eedbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 89,
+    "unique_vehicles": 1,
+    "min_speed": 89,
+    "max_speed": 89
+  },
+  {
+    "h3_index": "89674122863ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 63,
+    "unique_vehicles": 1,
+    "min_speed": 63,
+    "max_speed": 63
+  },
+  {
+    "h3_index": "8967412f06fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 94,
+    "unique_vehicles": 1,
+    "min_speed": 94,
+    "max_speed": 94
+  },
+  {
+    "h3_index": "8967412cc2bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 114,
+    "unique_vehicles": 1,
+    "min_speed": 114,
+    "max_speed": 114
+  },
+  {
+    "h3_index": "89674121acfffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 74,
+    "unique_vehicles": 1,
+    "min_speed": 74,
+    "max_speed": 74
+  },
+  {
+    "h3_index": "89674125bb7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 79,
+    "unique_vehicles": 1,
+    "min_speed": 79,
+    "max_speed": 79
+  },
+  {
+    "h3_index": "89674c5a69bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 113,
+    "unique_vehicles": 1,
+    "min_speed": 113,
+    "max_speed": 113
+  },
+  {
+    "h3_index": "896741242c3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 36,
+    "unique_vehicles": 1,
+    "min_speed": 36,
+    "max_speed": 36
+  },
+  {
+    "h3_index": "8967412c4a3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 63,
+    "unique_vehicles": 1,
+    "min_speed": 63,
+    "max_speed": 63
+  },
+  {
+    "h3_index": "8967412e24bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 35,
+    "unique_vehicles": 1,
+    "min_speed": 35,
+    "max_speed": 35
+  },
+  {
+    "h3_index": "8967412c48fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 48,
+    "unique_vehicles": 1,
+    "min_speed": 48,
+    "max_speed": 48
+  },
+  {
+    "h3_index": "89674135b5bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 120,
+    "unique_vehicles": 1,
+    "min_speed": 120,
+    "max_speed": 120
+  },
+  {
+    "h3_index": "8967412716bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 92,
+    "unique_vehicles": 1,
+    "min_speed": 92,
+    "max_speed": 92
+  },
+  {
+    "h3_index": "89674122bb7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 86,
+    "unique_vehicles": 1,
+    "min_speed": 86,
+    "max_speed": 86
+  },
+  {
+    "h3_index": "89674120867ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 87,
+    "unique_vehicles": 1,
+    "min_speed": 87,
+    "max_speed": 87
+  },
+  {
+    "h3_index": "8967412c943ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 87,
+    "unique_vehicles": 1,
+    "min_speed": 87,
+    "max_speed": 87
+  },
+  {
+    "h3_index": "896741266d3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 83,
+    "unique_vehicles": 1,
+    "min_speed": 83,
+    "max_speed": 83
+  },
+  {
+    "h3_index": "8967412ebb3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 47,
+    "unique_vehicles": 1,
+    "min_speed": 47,
+    "max_speed": 47
+  },
+  {
+    "h3_index": "8967412f583ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 70,
+    "unique_vehicles": 1,
+    "min_speed": 70,
+    "max_speed": 70
+  },
+  {
+    "h3_index": "8967412f3c7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 21,
+    "unique_vehicles": 1,
+    "min_speed": 21,
+    "max_speed": 21
+  },
+  {
+    "h3_index": "89674c5b153ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 47,
+    "unique_vehicles": 1,
+    "min_speed": 47,
+    "max_speed": 47
+  },
+  {
+    "h3_index": "89674125073ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 17,
+    "unique_vehicles": 1,
+    "min_speed": 17,
+    "max_speed": 17
+  },
+  {
+    "h3_index": "8967412e057ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 53,
+    "unique_vehicles": 1,
+    "min_speed": 53,
+    "max_speed": 53
+  },
+  {
+    "h3_index": "8967412f123ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 77,
+    "unique_vehicles": 1,
+    "min_speed": 77,
+    "max_speed": 77
+  },
+  {
+    "h3_index": "8967412486fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 59,
+    "unique_vehicles": 1,
+    "min_speed": 59,
+    "max_speed": 59
+  },
+  {
+    "h3_index": "89674125aa3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 69,
+    "unique_vehicles": 1,
+    "min_speed": 69,
+    "max_speed": 69
+  },
+  {
+    "h3_index": "89674120307ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 115,
+    "unique_vehicles": 1,
+    "min_speed": 115,
+    "max_speed": 115
+  },
+  {
+    "h3_index": "89674c5a063ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 114,
+    "unique_vehicles": 1,
+    "min_speed": 114,
+    "max_speed": 114
+  },
+  {
+    "h3_index": "8967412ed63ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 88,
+    "unique_vehicles": 1,
+    "min_speed": 88,
+    "max_speed": 88
+  },
+  {
+    "h3_index": "8967412e2d3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 55,
+    "unique_vehicles": 1,
+    "min_speed": 55,
+    "max_speed": 55
+  },
+  {
+    "h3_index": "89674121d47ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 69,
+    "unique_vehicles": 1,
+    "min_speed": 69,
+    "max_speed": 69
+  },
+  {
+    "h3_index": "89674c5a007ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 106,
+    "unique_vehicles": 1,
+    "min_speed": 106,
+    "max_speed": 106
+  },
+  {
+    "h3_index": "89674121843ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 66,
+    "unique_vehicles": 1,
+    "min_speed": 66,
+    "max_speed": 66
+  },
+  {
+    "h3_index": "8967412084fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 35,
+    "unique_vehicles": 1,
+    "min_speed": 35,
+    "max_speed": 35
+  },
+  {
+    "h3_index": "8967412ce0bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 34,
+    "unique_vehicles": 1,
+    "min_speed": 34,
+    "max_speed": 34
+  },
+  {
+    "h3_index": "89674122b73ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 85,
+    "unique_vehicles": 1,
+    "min_speed": 85,
+    "max_speed": 85
+  },
+  {
+    "h3_index": "8967412091bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 57,
+    "unique_vehicles": 1,
+    "min_speed": 57,
+    "max_speed": 57
+  },
+  {
+    "h3_index": "8967412cbd3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 73,
+    "unique_vehicles": 1,
+    "min_speed": 73,
+    "max_speed": 73
+  },
+  {
+    "h3_index": "8967412d813ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 76,
+    "unique_vehicles": 1,
+    "min_speed": 76,
+    "max_speed": 76
+  },
+  {
+    "h3_index": "89674c5a013ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 80,
+    "unique_vehicles": 1,
+    "min_speed": 80,
+    "max_speed": 80
+  },
+  {
+    "h3_index": "89674c5a3d7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 110,
+    "unique_vehicles": 1,
+    "min_speed": 110,
+    "max_speed": 110
+  },
+  {
+    "h3_index": "89674c5b157ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 52,
+    "unique_vehicles": 1,
+    "min_speed": 52,
+    "max_speed": 52
+  },
+  {
+    "h3_index": "8967412c173ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 113,
+    "unique_vehicles": 1,
+    "min_speed": 113,
+    "max_speed": 113
+  },
+  {
+    "h3_index": "896741218d3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 94,
+    "unique_vehicles": 1,
+    "min_speed": 94,
+    "max_speed": 94
+  },
+  {
+    "h3_index": "8967412e563ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 93,
+    "unique_vehicles": 1,
+    "min_speed": 93,
+    "max_speed": 93
+  },
+  {
+    "h3_index": "89674125923ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 33,
+    "unique_vehicles": 1,
+    "min_speed": 33,
+    "max_speed": 33
+  },
+  {
+    "h3_index": "89674121bd3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 63,
+    "unique_vehicles": 1,
+    "min_speed": 63,
+    "max_speed": 63
+  },
+  {
+    "h3_index": "8967412720fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 44,
+    "unique_vehicles": 1,
+    "min_speed": 44,
+    "max_speed": 44
+  },
+  {
+    "h3_index": "89674120947ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 49,
+    "unique_vehicles": 1,
+    "min_speed": 49,
+    "max_speed": 49
+  },
+  {
+    "h3_index": "896741202c7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 57,
+    "unique_vehicles": 1,
+    "min_speed": 57,
+    "max_speed": 57
+  },
+  {
+    "h3_index": "89674125643ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 73,
+    "unique_vehicles": 1,
+    "min_speed": 73,
+    "max_speed": 73
+  },
+  {
+    "h3_index": "89674c5a24fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 56,
+    "unique_vehicles": 1,
+    "min_speed": 56,
+    "max_speed": 56
+  },
+  {
+    "h3_index": "8967412c207ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 119,
+    "unique_vehicles": 1,
+    "min_speed": 119,
+    "max_speed": 119
+  },
+  {
+    "h3_index": "896741241cbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 100,
+    "unique_vehicles": 1,
+    "min_speed": 100,
+    "max_speed": 100
+  },
+  {
+    "h3_index": "89674121b47ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 23,
+    "unique_vehicles": 1,
+    "min_speed": 23,
+    "max_speed": 23
+  },
+  {
+    "h3_index": "89674127523ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 112,
+    "unique_vehicles": 1,
+    "min_speed": 112,
+    "max_speed": 112
+  },
+  {
+    "h3_index": "89674c5b5c7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 116,
+    "unique_vehicles": 1,
+    "min_speed": 116,
+    "max_speed": 116
+  },
+  {
+    "h3_index": "896741273abffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 2,
+    "unique_vehicles": 1,
+    "min_speed": 2,
+    "max_speed": 2
+  },
+  {
+    "h3_index": "8967412702bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 105,
+    "unique_vehicles": 1,
+    "min_speed": 105,
+    "max_speed": 105
+  },
+  {
+    "h3_index": "8967412290fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 115,
+    "unique_vehicles": 1,
+    "min_speed": 115,
+    "max_speed": 115
+  },
+  {
+    "h3_index": "8967412deafffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 119,
+    "unique_vehicles": 1,
+    "min_speed": 119,
+    "max_speed": 119
+  },
+  {
+    "h3_index": "89674c5b2abffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 56,
+    "unique_vehicles": 1,
+    "min_speed": 56,
+    "max_speed": 56
+  },
+  {
+    "h3_index": "89674c5b1c7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 63,
+    "unique_vehicles": 1,
+    "min_speed": 63,
+    "max_speed": 63
+  },
+  {
+    "h3_index": "8967412cdc7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 1,
+    "unique_vehicles": 1,
+    "min_speed": 1,
+    "max_speed": 1
+  },
+  {
+    "h3_index": "8967412dca3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 43,
+    "unique_vehicles": 1,
+    "min_speed": 43,
+    "max_speed": 43
+  },
+  {
+    "h3_index": "8967412561bffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 19,
+    "unique_vehicles": 2,
+    "min_speed": 4,
+    "max_speed": 34
+  },
+  {
+    "h3_index": "89674125b13ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 63,
+    "unique_vehicles": 1,
+    "min_speed": 63,
+    "max_speed": 63
+  },
+  {
+    "h3_index": "89674c5b54fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 72,
+    "unique_vehicles": 1,
+    "min_speed": 72,
+    "max_speed": 72
+  },
+  {
+    "h3_index": "8967412c3d7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 23,
+    "unique_vehicles": 1,
+    "min_speed": 23,
+    "max_speed": 23
+  },
+  {
+    "h3_index": "896741266d7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 35,
+    "unique_vehicles": 1,
+    "min_speed": 35,
+    "max_speed": 35
+  },
+  {
+    "h3_index": "896741259b7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 120,
+    "unique_vehicles": 1,
+    "min_speed": 120,
+    "max_speed": 120
+  },
+  {
+    "h3_index": "8967412ce7bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 109,
+    "unique_vehicles": 1,
+    "min_speed": 109,
+    "max_speed": 109
+  },
+  {
+    "h3_index": "8967412f503ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 79,
+    "unique_vehicles": 1,
+    "min_speed": 79,
+    "max_speed": 79
+  },
+  {
+    "h3_index": "89674c5b2b3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 77,
+    "unique_vehicles": 1,
+    "min_speed": 77,
+    "max_speed": 77
+  },
+  {
+    "h3_index": "89674121b33ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 119,
+    "unique_vehicles": 1,
+    "min_speed": 119,
+    "max_speed": 119
+  },
+  {
+    "h3_index": "89674125bdbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 93,
+    "unique_vehicles": 1,
+    "min_speed": 93,
+    "max_speed": 93
+  },
+  {
+    "h3_index": "89674120027ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 74,
+    "unique_vehicles": 1,
+    "min_speed": 74,
+    "max_speed": 74
+  },
+  {
+    "h3_index": "8967412e88bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 112,
+    "unique_vehicles": 1,
+    "min_speed": 112,
+    "max_speed": 112
+  },
+  {
+    "h3_index": "8967412589bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 31,
+    "unique_vehicles": 1,
+    "min_speed": 31,
+    "max_speed": 31
+  },
+  {
+    "h3_index": "8967412522fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 71,
+    "unique_vehicles": 1,
+    "min_speed": 71,
+    "max_speed": 71
+  },
+  {
+    "h3_index": "8967412ec2fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 5,
+    "unique_vehicles": 1,
+    "min_speed": 5,
+    "max_speed": 5
+  },
+  {
+    "h3_index": "896741245bbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 73,
+    "unique_vehicles": 1,
+    "min_speed": 73,
+    "max_speed": 73
+  },
+  {
+    "h3_index": "89674134a6bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 120,
+    "unique_vehicles": 1,
+    "min_speed": 120,
+    "max_speed": 120
+  },
+  {
+    "h3_index": "896741270d3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 35,
+    "unique_vehicles": 1,
+    "min_speed": 35,
+    "max_speed": 35
+  },
+  {
+    "h3_index": "8967412644bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 20,
+    "unique_vehicles": 1,
+    "min_speed": 20,
+    "max_speed": 20
+  },
+  {
+    "h3_index": "8967412c3c3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 114,
+    "unique_vehicles": 1,
+    "min_speed": 114,
+    "max_speed": 114
+  },
+  {
+    "h3_index": "8967412c01bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 106,
+    "unique_vehicles": 1,
+    "min_speed": 106,
+    "max_speed": 106
+  },
+  {
+    "h3_index": "8967412e6a7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 40,
+    "unique_vehicles": 1,
+    "min_speed": 40,
+    "max_speed": 40
+  },
+  {
+    "h3_index": "8967412debbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 58,
+    "unique_vehicles": 1,
+    "min_speed": 58,
+    "max_speed": 58
+  },
+  {
+    "h3_index": "8967412c893ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 30,
+    "unique_vehicles": 1,
+    "min_speed": 30,
+    "max_speed": 30
+  },
+  {
+    "h3_index": "89674124ecfffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 62,
+    "unique_vehicles": 1,
+    "min_speed": 62,
+    "max_speed": 62
+  },
+  {
+    "h3_index": "8967412c557ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 16,
+    "unique_vehicles": 1,
+    "min_speed": 16,
+    "max_speed": 16
+  },
+  {
+    "h3_index": "89674124437ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 119,
+    "unique_vehicles": 1,
+    "min_speed": 119,
+    "max_speed": 119
+  },
+  {
+    "h3_index": "89674124627ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 20,
+    "unique_vehicles": 1,
+    "min_speed": 20,
+    "max_speed": 20
+  },
+  {
+    "h3_index": "89674121c93ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 80,
+    "unique_vehicles": 1,
+    "min_speed": 80,
+    "max_speed": 80
+  },
+  {
+    "h3_index": "89674125d83ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 59,
+    "unique_vehicles": 1,
+    "min_speed": 59,
+    "max_speed": 59
+  },
+  {
+    "h3_index": "8967412462fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 6,
+    "unique_vehicles": 1,
+    "min_speed": 6,
+    "max_speed": 6
+  },
+  {
+    "h3_index": "8967412d9cbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 48,
+    "unique_vehicles": 1,
+    "min_speed": 48,
+    "max_speed": 48
+  },
+  {
+    "h3_index": "89674c5a613ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 113,
+    "unique_vehicles": 1,
+    "min_speed": 113,
+    "max_speed": 113
+  },
+  {
+    "h3_index": "8967412604fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 85,
+    "unique_vehicles": 1,
+    "min_speed": 85,
+    "max_speed": 85
+  },
+  {
+    "h3_index": "8967412403bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 31,
+    "unique_vehicles": 1,
+    "min_speed": 31,
+    "max_speed": 31
+  },
+  {
+    "h3_index": "89674c5a02bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 19,
+    "unique_vehicles": 1,
+    "min_speed": 19,
+    "max_speed": 19
+  },
+  {
+    "h3_index": "89674125293ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 31,
+    "unique_vehicles": 1,
+    "min_speed": 31,
+    "max_speed": 31
+  },
+  {
+    "h3_index": "896741250cfffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 27,
+    "unique_vehicles": 1,
+    "min_speed": 27,
+    "max_speed": 27
+  },
+  {
+    "h3_index": "89674121cb3ffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 4.5,
+    "unique_vehicles": 2,
+    "min_speed": 1,
+    "max_speed": 8
+  },
+  {
+    "h3_index": "89674124ebbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 109,
+    "unique_vehicles": 1,
+    "min_speed": 109,
+    "max_speed": 109
+  },
+  {
+    "h3_index": "8967412f15bffff",
+    "point_count": 2,
+    "density_level": "LOW",
+    "avg_speed": 88.5,
+    "unique_vehicles": 2,
+    "min_speed": 70,
+    "max_speed": 107
+  },
+  {
+    "h3_index": "89674c5b677ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 119,
+    "unique_vehicles": 1,
+    "min_speed": 119,
+    "max_speed": 119
+  },
+  {
+    "h3_index": "89674135aafffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 62,
+    "unique_vehicles": 1,
+    "min_speed": 62,
+    "max_speed": 62
+  },
+  {
+    "h3_index": "896741262b7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 19,
+    "unique_vehicles": 1,
+    "min_speed": 19,
+    "max_speed": 19
+  },
+  {
+    "h3_index": "89674124033ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 93,
+    "unique_vehicles": 1,
+    "min_speed": 93,
+    "max_speed": 93
+  },
+  {
+    "h3_index": "89674c5a5cfffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 37,
+    "unique_vehicles": 1,
+    "min_speed": 37,
+    "max_speed": 37
+  },
+  {
+    "h3_index": "8967412019bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 95,
+    "unique_vehicles": 1,
+    "min_speed": 95,
+    "max_speed": 95
+  },
+  {
+    "h3_index": "896741203bbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 91,
+    "unique_vehicles": 1,
+    "min_speed": 91,
+    "max_speed": 91
+  },
+  {
+    "h3_index": "8967412ead3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 15,
+    "unique_vehicles": 1,
+    "min_speed": 15,
+    "max_speed": 15
+  },
+  {
+    "h3_index": "89674c5b60bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 102,
+    "unique_vehicles": 1,
+    "min_speed": 102,
+    "max_speed": 102
+  },
+  {
+    "h3_index": "8967412ca73ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 27,
+    "unique_vehicles": 1,
+    "min_speed": 27,
+    "max_speed": 27
+  },
+  {
+    "h3_index": "89674121e97ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 84,
+    "unique_vehicles": 1,
+    "min_speed": 84,
+    "max_speed": 84
+  },
+  {
+    "h3_index": "8967412ce9bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 56,
+    "unique_vehicles": 1,
+    "min_speed": 56,
+    "max_speed": 56
+  },
+  {
+    "h3_index": "8967412568bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 60,
+    "unique_vehicles": 1,
+    "min_speed": 60,
+    "max_speed": 60
+  },
+  {
+    "h3_index": "89674121d0bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 66,
+    "unique_vehicles": 1,
+    "min_speed": 66,
+    "max_speed": 66
+  },
+  {
+    "h3_index": "8967412e12fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 1,
+    "unique_vehicles": 1,
+    "min_speed": 1,
+    "max_speed": 1
+  },
+  {
+    "h3_index": "896741260afffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 43,
+    "unique_vehicles": 1,
+    "min_speed": 43,
+    "max_speed": 43
+  },
+  {
+    "h3_index": "8967412e5b7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 37,
+    "unique_vehicles": 1,
+    "min_speed": 37,
+    "max_speed": 37
+  },
+  {
+    "h3_index": "8967412750fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 57,
+    "unique_vehicles": 1,
+    "min_speed": 57,
+    "max_speed": 57
+  },
+  {
+    "h3_index": "8967412cac3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 31,
+    "unique_vehicles": 1,
+    "min_speed": 31,
+    "max_speed": 31
+  },
+  {
+    "h3_index": "896741202b7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 36,
+    "unique_vehicles": 1,
+    "min_speed": 36,
+    "max_speed": 36
+  },
+  {
+    "h3_index": "89674c5b07bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 15,
+    "unique_vehicles": 1,
+    "min_speed": 15,
+    "max_speed": 15
+  },
+  {
+    "h3_index": "8967412756bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 74,
+    "unique_vehicles": 1,
+    "min_speed": 74,
+    "max_speed": 74
+  },
+  {
+    "h3_index": "89674125833ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 38,
+    "unique_vehicles": 1,
+    "min_speed": 38,
+    "max_speed": 38
+  },
+  {
+    "h3_index": "8967412e957ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 112,
+    "unique_vehicles": 1,
+    "min_speed": 112,
+    "max_speed": 112
+  },
+  {
+    "h3_index": "896741203b3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 89,
+    "unique_vehicles": 1,
+    "min_speed": 89,
+    "max_speed": 89
+  },
+  {
+    "h3_index": "8967412e657ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 52,
+    "unique_vehicles": 1,
+    "min_speed": 52,
+    "max_speed": 52
+  },
+  {
+    "h3_index": "8967412e98fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 73,
+    "unique_vehicles": 1,
+    "min_speed": 73,
+    "max_speed": 73
+  },
+  {
+    "h3_index": "89674127183ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 36,
+    "unique_vehicles": 1,
+    "min_speed": 36,
+    "max_speed": 36
+  },
+  {
+    "h3_index": "89674135a3bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 109,
+    "unique_vehicles": 1,
+    "min_speed": 109,
+    "max_speed": 109
+  },
+  {
+    "h3_index": "89674126307ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 92,
+    "unique_vehicles": 1,
+    "min_speed": 92,
+    "max_speed": 92
+  },
+  {
+    "h3_index": "8967412ebb7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 105,
+    "unique_vehicles": 1,
+    "min_speed": 105,
+    "max_speed": 105
+  },
+  {
+    "h3_index": "8967412f5afffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 35,
+    "unique_vehicles": 1,
+    "min_speed": 35,
+    "max_speed": 35
+  },
+  {
+    "h3_index": "896741276abffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 109,
+    "unique_vehicles": 1,
+    "min_speed": 109,
+    "max_speed": 109
+  },
+  {
+    "h3_index": "89674134a47ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 19,
+    "unique_vehicles": 1,
+    "min_speed": 19,
+    "max_speed": 19
+  },
+  {
+    "h3_index": "8967412c58bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 56,
+    "unique_vehicles": 1,
+    "min_speed": 56,
+    "max_speed": 56
+  },
+  {
+    "h3_index": "8967412cca3ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 57,
+    "unique_vehicles": 1,
+    "min_speed": 57,
+    "max_speed": 57
+  },
+  {
+    "h3_index": "896741240b7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 74,
+    "unique_vehicles": 1,
+    "min_speed": 74,
+    "max_speed": 74
+  },
+  {
+    "h3_index": "8967412deb7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 115,
+    "unique_vehicles": 1,
+    "min_speed": 115,
+    "max_speed": 115
+  },
+  {
+    "h3_index": "89674c5a46fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 89,
+    "unique_vehicles": 1,
+    "min_speed": 89,
+    "max_speed": 89
+  },
+  {
+    "h3_index": "8967412f16fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 88,
+    "unique_vehicles": 1,
+    "min_speed": 88,
+    "max_speed": 88
+  },
+  {
+    "h3_index": "8967412cea7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 99,
+    "unique_vehicles": 1,
+    "min_speed": 99,
+    "max_speed": 99
+  },
+  {
+    "h3_index": "89674124e4fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 102,
+    "unique_vehicles": 1,
+    "min_speed": 102,
+    "max_speed": 102
+  },
+  {
+    "h3_index": "89674121803ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 118,
+    "unique_vehicles": 1,
+    "min_speed": 118,
+    "max_speed": 118
+  },
+  {
+    "h3_index": "8967412cc73ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 34,
+    "unique_vehicles": 1,
+    "min_speed": 34,
+    "max_speed": 34
+  },
+  {
+    "h3_index": "8967412c50fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 56,
+    "unique_vehicles": 1,
+    "min_speed": 56,
+    "max_speed": 56
+  },
+  {
+    "h3_index": "89674121cc7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 111,
+    "unique_vehicles": 1,
+    "min_speed": 111,
+    "max_speed": 111
+  },
+  {
+    "h3_index": "8967412767bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 85,
+    "unique_vehicles": 1,
+    "min_speed": 85,
+    "max_speed": 85
+  },
+  {
+    "h3_index": "8967412ec9bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 54,
+    "unique_vehicles": 1,
+    "min_speed": 54,
+    "max_speed": 54
+  },
+  {
+    "h3_index": "89674125933ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 47,
+    "unique_vehicles": 1,
+    "min_speed": 47,
+    "max_speed": 47
+  },
+  {
+    "h3_index": "89674120c43ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 64,
+    "unique_vehicles": 1,
+    "min_speed": 64,
+    "max_speed": 64
+  },
+  {
+    "h3_index": "8967412c357ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 4,
+    "unique_vehicles": 1,
+    "min_speed": 4,
+    "max_speed": 4
+  },
+  {
+    "h3_index": "8967412097bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 27,
+    "unique_vehicles": 1,
+    "min_speed": 27,
+    "max_speed": 27
+  },
+  {
+    "h3_index": "89674134aabffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 91,
+    "unique_vehicles": 1,
+    "min_speed": 91,
+    "max_speed": 91
+  },
+  {
+    "h3_index": "8967412f02bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 116,
+    "unique_vehicles": 1,
+    "min_speed": 116,
+    "max_speed": 116
+  },
+  {
+    "h3_index": "896741275b7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 8,
+    "unique_vehicles": 1,
+    "min_speed": 8,
+    "max_speed": 8
+  },
+  {
+    "h3_index": "89674134abbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 52,
+    "unique_vehicles": 1,
+    "min_speed": 52,
+    "max_speed": 52
+  },
+  {
+    "h3_index": "89674125d8bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 114,
+    "unique_vehicles": 1,
+    "min_speed": 114,
+    "max_speed": 114
+  },
+  {
+    "h3_index": "89674c5b39bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 96,
+    "unique_vehicles": 1,
+    "min_speed": 96,
+    "max_speed": 96
+  },
+  {
+    "h3_index": "8967412c23bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 57,
+    "unique_vehicles": 1,
+    "min_speed": 57,
+    "max_speed": 57
+  },
+  {
+    "h3_index": "8967412e23bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 104,
+    "unique_vehicles": 1,
+    "min_speed": 104,
+    "max_speed": 104
+  },
+  {
+    "h3_index": "89674c5b25bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 17,
+    "unique_vehicles": 1,
+    "min_speed": 17,
+    "max_speed": 17
+  },
+  {
+    "h3_index": "89674125597ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 19,
+    "unique_vehicles": 1,
+    "min_speed": 19,
+    "max_speed": 19
+  },
+  {
+    "h3_index": "89674125357ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 66,
+    "unique_vehicles": 1,
+    "min_speed": 66,
+    "max_speed": 66
+  },
+  {
+    "h3_index": "8967412eb13ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 11,
+    "unique_vehicles": 1,
+    "min_speed": 11,
+    "max_speed": 11
+  },
+  {
+    "h3_index": "89674125a1bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 34,
+    "unique_vehicles": 1,
+    "min_speed": 34,
+    "max_speed": 34
+  },
+  {
+    "h3_index": "896741256b7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 56,
+    "unique_vehicles": 1,
+    "min_speed": 56,
+    "max_speed": 56
+  },
+  {
+    "h3_index": "89674135b1bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 103,
+    "unique_vehicles": 1,
+    "min_speed": 103,
+    "max_speed": 103
+  },
+  {
+    "h3_index": "8967412dd53ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 26,
+    "unique_vehicles": 1,
+    "min_speed": 26,
+    "max_speed": 26
+  },
+  {
+    "h3_index": "89674c5a273ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 111,
+    "unique_vehicles": 1,
+    "min_speed": 111,
+    "max_speed": 111
+  },
+  {
+    "h3_index": "89674126013ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 119,
+    "unique_vehicles": 1,
+    "min_speed": 119,
+    "max_speed": 119
+  },
+  {
+    "h3_index": "89674125e37ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 63,
+    "unique_vehicles": 1,
+    "min_speed": 63,
+    "max_speed": 63
+  },
+  {
+    "h3_index": "89674124e4bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 51,
+    "unique_vehicles": 1,
+    "min_speed": 51,
+    "max_speed": 51
+  },
+  {
+    "h3_index": "89674120933ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 33,
+    "unique_vehicles": 1,
+    "min_speed": 33,
+    "max_speed": 33
+  },
+  {
+    "h3_index": "8967412636bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 31,
+    "unique_vehicles": 1,
+    "min_speed": 31,
+    "max_speed": 31
+  },
+  {
+    "h3_index": "89674120d4fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 69,
+    "unique_vehicles": 1,
+    "min_speed": 69,
+    "max_speed": 69
+  },
+  {
+    "h3_index": "8967412f1c7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 99,
+    "unique_vehicles": 1,
+    "min_speed": 99,
+    "max_speed": 99
+  },
+  {
+    "h3_index": "89674135bbbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 96,
+    "unique_vehicles": 1,
+    "min_speed": 96,
+    "max_speed": 96
+  },
+  {
+    "h3_index": "8967412c14fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 97,
+    "unique_vehicles": 1,
+    "min_speed": 97,
+    "max_speed": 97
+  },
+  {
+    "h3_index": "89674125a8bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 14,
+    "unique_vehicles": 1,
+    "min_speed": 14,
+    "max_speed": 14
+  },
+  {
+    "h3_index": "8967412c1abffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 94,
+    "unique_vehicles": 1,
+    "min_speed": 94,
+    "max_speed": 94
+  },
+  {
+    "h3_index": "8967412152fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 78,
+    "unique_vehicles": 1,
+    "min_speed": 78,
+    "max_speed": 78
+  },
+  {
+    "h3_index": "89674127357ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 101,
+    "unique_vehicles": 1,
+    "min_speed": 101,
+    "max_speed": 101
+  },
+  {
+    "h3_index": "89674125db7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 86,
+    "unique_vehicles": 1,
+    "min_speed": 86,
+    "max_speed": 86
+  },
+  {
+    "h3_index": "89674c5b6c7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 21,
+    "unique_vehicles": 1,
+    "min_speed": 21,
+    "max_speed": 21
+  },
+  {
+    "h3_index": "89674124b4bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 79,
+    "unique_vehicles": 1,
+    "min_speed": 79,
+    "max_speed": 79
+  },
+  {
+    "h3_index": "8967412c213ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 44,
+    "unique_vehicles": 1,
+    "min_speed": 44,
+    "max_speed": 44
+  },
+  {
+    "h3_index": "896741218cfffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 4,
+    "unique_vehicles": 1,
+    "min_speed": 4,
+    "max_speed": 4
+  },
+  {
+    "h3_index": "89674c5a68bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 36,
+    "unique_vehicles": 1,
+    "min_speed": 36,
+    "max_speed": 36
+  },
+  {
+    "h3_index": "89674121b17ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 76,
+    "unique_vehicles": 1,
+    "min_speed": 76,
+    "max_speed": 76
+  },
+  {
+    "h3_index": "89674127347ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 82,
+    "unique_vehicles": 1,
+    "min_speed": 82,
+    "max_speed": 82
+  },
+  {
+    "h3_index": "8967412c55bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 20,
+    "unique_vehicles": 1,
+    "min_speed": 20,
+    "max_speed": 20
+  },
+  {
+    "h3_index": "896741253cfffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 95,
+    "unique_vehicles": 1,
+    "min_speed": 95,
+    "max_speed": 95
+  },
+  {
+    "h3_index": "89674c5a643ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 105,
+    "unique_vehicles": 1,
+    "min_speed": 105,
+    "max_speed": 105
+  },
+  {
+    "h3_index": "89674121d8fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 64,
+    "unique_vehicles": 1,
+    "min_speed": 64,
+    "max_speed": 64
+  },
+  {
+    "h3_index": "8967412e687ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 94,
+    "unique_vehicles": 1,
+    "min_speed": 94,
+    "max_speed": 94
+  },
+  {
+    "h3_index": "89674120827ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 105,
+    "unique_vehicles": 1,
+    "min_speed": 105,
+    "max_speed": 105
+  },
+  {
+    "h3_index": "89674120e23ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 42,
+    "unique_vehicles": 1,
+    "min_speed": 42,
+    "max_speed": 42
+  },
+  {
+    "h3_index": "89674c5a2dbffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 27,
+    "unique_vehicles": 1,
+    "min_speed": 27,
+    "max_speed": 27
+  },
+  {
+    "h3_index": "89674126457ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 103,
+    "unique_vehicles": 1,
+    "min_speed": 103,
+    "max_speed": 103
+  },
+  {
+    "h3_index": "8967412185bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 31,
+    "unique_vehicles": 1,
+    "min_speed": 31,
+    "max_speed": 31
+  },
+  {
+    "h3_index": "896741263cfffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 7,
+    "unique_vehicles": 1,
+    "min_speed": 7,
+    "max_speed": 7
+  },
+  {
+    "h3_index": "89674125b97ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 56,
+    "unique_vehicles": 1,
+    "min_speed": 56,
+    "max_speed": 56
+  },
+  {
+    "h3_index": "89674135a7bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 64,
+    "unique_vehicles": 1,
+    "min_speed": 64,
+    "max_speed": 64
+  },
+  {
+    "h3_index": "89674127697ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 90,
+    "unique_vehicles": 1,
+    "min_speed": 90,
+    "max_speed": 90
+  },
+  {
+    "h3_index": "8967412e083ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 109,
+    "unique_vehicles": 1,
+    "min_speed": 109,
+    "max_speed": 109
+  },
+  {
+    "h3_index": "8967412c277ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 77,
+    "unique_vehicles": 1,
+    "min_speed": 77,
+    "max_speed": 77
+  },
+  {
+    "h3_index": "89674121b6fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 59,
+    "unique_vehicles": 1,
+    "min_speed": 59,
+    "max_speed": 59
+  },
+  {
+    "h3_index": "89674125c0fffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 52,
+    "unique_vehicles": 1,
+    "min_speed": 52,
+    "max_speed": 52
+  },
+  {
+    "h3_index": "89674126403ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 69,
+    "unique_vehicles": 1,
+    "min_speed": 69,
+    "max_speed": 69
+  },
+  {
+    "h3_index": "89674c5a56bffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 93,
+    "unique_vehicles": 1,
+    "min_speed": 93,
+    "max_speed": 93
+  },
+  {
+    "h3_index": "89674120207ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 42,
+    "unique_vehicles": 1,
+    "min_speed": 42,
+    "max_speed": 42
+  },
+  {
+    "h3_index": "89674120ad7ffff",
+    "point_count": 1,
+    "density_level": "LOW",
+    "avg_speed": 52,
+    "unique_vehicles": 1,
+    "min_speed": 52,
+    "max_speed": 52
+  }
+]

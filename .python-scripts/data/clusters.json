@@ -1,0 +1,3123 @@
+[
+  {
+    "size": 6,
+    "hexagons": [
+      "8967412cc8fffff",
+      "8967412cc83ffff",
+      "8967412ccbbffff",
+      "8967412cc93ffff",
+      "8967412ccb3ffff",
+      "8967412cca3ffff"
+    ],
+    "total_points": 6,
+    "avg_speed": 63.17,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 6
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "8967412e2dbffff",
+      "8967412e2d3ffff",
+      "8967412f5afffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 32.67,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "89674127683ffff",
+      "8967412768fffff",
+      "89674127697ffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 71.33,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "8967412dcb3ffff",
+      "8967412dca3ffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 45.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "89674c5b06bffff",
+      "89674c5b07bffff",
+      "89674c5b047ffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 43.33,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 4,
+    "hexagons": [
+      "8967412eb9bffff",
+      "8967412eb8bffff",
+      "8967412eb83ffff",
+      "8967412eb13ffff"
+    ],
+    "total_points": 5,
+    "avg_speed": 50.25,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 4
+    }
+  },
+  {
+    "size": 7,
+    "hexagons": [
+      "89674120b37ffff",
+      "896741256dbffff",
+      "89674120bafffff",
+      "89674120ba7ffff",
+      "89674120ba3ffff",
+      "89674120bb3ffff",
+      "89674120bbbffff"
+    ],
+    "total_points": 9,
+    "avg_speed": 56.86,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 7
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "8967412e353ffff",
+      "8967412e357ffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 64.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "8967412e0abffff",
+      "8967412e017ffff",
+      "8967412e007ffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 57.33,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "8967412550fffff",
+      "89674125573ffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 37.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 7,
+    "hexagons": [
+      "89674c5b287ffff",
+      "89674c5b283ffff",
+      "89674c5b2b3ffff",
+      "89674c5b04bffff",
+      "89674c5b2a3ffff",
+      "89674c5b2afffff",
+      "89674c5b2abffff"
+    ],
+    "total_points": 7,
+    "avg_speed": 73.57,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 7
+    }
+  },
+  {
+    "size": 9,
+    "hexagons": [
+      "89674135b2bffff",
+      "89674127593ffff",
+      "89674135b23ffff",
+      "89674135b67ffff",
+      "89674127597ffff",
+      "89674127583ffff",
+      "89674135b6fffff",
+      "8967412664bffff",
+      "8967412665bffff"
+    ],
+    "total_points": 10,
+    "avg_speed": 58.67,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 9
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "896741240b3ffff",
+      "896741240b7ffff",
+      "896741240a7ffff"
+    ],
+    "total_points": 4,
+    "avg_speed": 52.17,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 4,
+    "hexagons": [
+      "89674124e6bffff",
+      "89674125db7ffff",
+      "89674124e4fffff",
+      "89674124e4bffff"
+    ],
+    "total_points": 4,
+    "avg_speed": 80.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 4
+    }
+  },
+  {
+    "size": 4,
+    "hexagons": [
+      "8967412405bffff",
+      "89674124627ffff",
+      "8967412462fffff",
+      "896741240cbffff"
+    ],
+    "total_points": 4,
+    "avg_speed": 28.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 4
+    }
+  },
+  {
+    "size": 4,
+    "hexagons": [
+      "8967412f14bffff",
+      "8967412f14fffff",
+      "8967412f15bffff",
+      "8967412f3b3ffff"
+    ],
+    "total_points": 5,
+    "avg_speed": 44.88,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 4
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "896741254cfffff",
+      "89674125457ffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 12.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "896741245a7ffff",
+      "896741245b7ffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 84.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 4,
+    "hexagons": [
+      "8967412e53bffff",
+      "8967412e50fffff",
+      "8967412e523ffff",
+      "8967412e527ffff"
+    ],
+    "total_points": 4,
+    "avg_speed": 53.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 4
+    }
+  },
+  {
+    "size": 8,
+    "hexagons": [
+      "89674135b43ffff",
+      "89674135b5bffff",
+      "89674135a27ffff",
+      "89674135bcbffff",
+      "89674135a37ffff",
+      "89674135bc3ffff",
+      "89674135aafffff",
+      "89674135aa3ffff"
+    ],
+    "total_points": 9,
+    "avg_speed": 50.88,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 8
+    }
+  },
+  {
+    "size": 4,
+    "hexagons": [
+      "8967412ebd3ffff",
+      "8967412eaa7ffff",
+      "8967412eaafffff",
+      "8967412eaabffff"
+    ],
+    "total_points": 4,
+    "avg_speed": 94.25,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 4
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "89674120ed7ffff",
+      "89674120ed3ffff",
+      "8967412016bffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 53.67,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 4,
+    "hexagons": [
+      "8967412ca47ffff",
+      "8967412ca73ffff",
+      "8967412ca4fffff",
+      "8967412d9b7ffff"
+    ],
+    "total_points": 5,
+    "avg_speed": 43.88,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 4
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "89674121a9bffff",
+      "89674121e6fffff",
+      "89674121e6bffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 58.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "896741272a3ffff",
+      "896741272b7ffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 55.75,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "896741240abffff",
+      "89674124033ffff",
+      "8967412403bffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 51.67,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "8967412ca53ffff",
+      "8967412dd27ffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 58.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 4,
+    "hexagons": [
+      "89674125e73ffff",
+      "89674125e47ffff",
+      "89674125e7bffff",
+      "89674125e6bffff"
+    ],
+    "total_points": 4,
+    "avg_speed": 41.25,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 4
+    }
+  },
+  {
+    "size": 5,
+    "hexagons": [
+      "89674125d77ffff",
+      "89674125d3bffff",
+      "89674125d67ffff",
+      "89674125d6fffff",
+      "896741259d3ffff"
+    ],
+    "total_points": 5,
+    "avg_speed": 25.6,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 5
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "8967412f403ffff",
+      "8967412f40fffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 102.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674122a8fffff",
+      "89674122a8bffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 49.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674126617ffff",
+      "89674126603ffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 58.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 5,
+    "hexagons": [
+      "8967412d5a7ffff",
+      "8967412d5b7ffff",
+      "8967412c64fffff",
+      "8967412d5b3ffff",
+      "8967412d5bbffff"
+    ],
+    "total_points": 5,
+    "avg_speed": 34.6,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 5
+    }
+  },
+  {
+    "size": 6,
+    "hexagons": [
+      "8967412c10bffff",
+      "8967412c173ffff",
+      "8967412c163ffff",
+      "8967412c16bffff",
+      "8967412c3b7ffff",
+      "8967412c14fffff"
+    ],
+    "total_points": 6,
+    "avg_speed": 92.67,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 6
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "89674c5b2cfffff",
+      "89674c5b2cbffff",
+      "89674c5b2dbffff"
+    ],
+    "total_points": 4,
+    "avg_speed": 68.67,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674125123ffff",
+      "8967412513bffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 47.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674c5a5cbffff",
+      "89674c5a5cfffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 69.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 10,
+    "hexagons": [
+      "89674127123ffff",
+      "89674127127ffff",
+      "89674127133ffff",
+      "8967412445bffff",
+      "896741271afffff",
+      "89674124443ffff",
+      "896741271a3ffff",
+      "896741271bbffff",
+      "89674127187ffff",
+      "89674127183ffff"
+    ],
+    "total_points": 12,
+    "avg_speed": 72.7,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 10
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674c5b44bffff",
+      "89674c5b44fffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 102.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 5,
+    "hexagons": [
+      "89674121d57ffff",
+      "89674121d53ffff",
+      "89674121d0bffff",
+      "89674121d47ffff",
+      "89674121d4fffff"
+    ],
+    "total_points": 5,
+    "avg_speed": 64.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 5
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674121acbffff",
+      "89674121acfffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 79.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "8967412752fffff",
+      "89674127523ffff",
+      "8967412752bffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 64.67,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674121e13ffff",
+      "89674121e17ffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 68.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "89674125b8bffff",
+      "89674125bc7ffff",
+      "89674125b13ffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 76.67,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 5,
+    "hexagons": [
+      "8967412c8d7ffff",
+      "8967412c8c3ffff",
+      "8967412c88bffff",
+      "8967412c8cbffff",
+      "8967412ce37ffff"
+    ],
+    "total_points": 5,
+    "avg_speed": 76.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 5
+    }
+  },
+  {
+    "size": 4,
+    "hexagons": [
+      "8967412c1afffff",
+      "8967412c1abffff",
+      "8967412c117ffff",
+      "8967412c113ffff"
+    ],
+    "total_points": 6,
+    "avg_speed": 66.38,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 4
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "8967412c51bffff",
+      "8967412c557ffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 52.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 4,
+    "hexagons": [
+      "8967412f1c3ffff",
+      "8967412f1c7ffff",
+      "8967412f18bffff",
+      "8967412f19bffff"
+    ],
+    "total_points": 4,
+    "avg_speed": 63.75,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 4
+    }
+  },
+  {
+    "size": 12,
+    "hexagons": [
+      "89674c5b0b7ffff",
+      "89674c5b0b3ffff",
+      "89674c5b54fffff",
+      "89674c5b0a7ffff",
+      "89674c5b1d3ffff",
+      "89674c5b0afffff",
+      "89674c5b1c3ffff",
+      "89674c5b1c7ffff",
+      "89674c5b113ffff",
+      "89674c5b11bffff",
+      "89674c5b157ffff",
+      "89674c5b153ffff"
+    ],
+    "total_points": 12,
+    "avg_speed": 72.75,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 12
+    }
+  },
+  {
+    "size": 13,
+    "hexagons": [
+      "8967412e32bffff",
+      "8967412e367ffff",
+      "8967412c593ffff",
+      "8967412e323ffff",
+      "8967412e377ffff",
+      "8967412c59bffff",
+      "8967412e327ffff",
+      "8967412e30fffff",
+      "8967412c58bffff",
+      "8967412eecbffff",
+      "8967412eedbffff",
+      "8967412eed3ffff",
+      "8967412e16bffff"
+    ],
+    "total_points": 18,
+    "avg_speed": 55.19,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 13
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674c5a2a7ffff",
+      "89674c5a3dbffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 4.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "8967412594fffff",
+      "89674125bb7ffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 49.75,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 4,
+    "hexagons": [
+      "8967412428bffff",
+      "896741242d7ffff",
+      "89674124283ffff",
+      "896741242c3ffff"
+    ],
+    "total_points": 4,
+    "avg_speed": 60.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 4
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674126263ffff",
+      "89674126277ffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 63.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674127097ffff",
+      "8967412742fffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 70.25,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674c5b457ffff",
+      "89674c5b41bffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 59.25,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 8,
+    "hexagons": [
+      "89674120213ffff",
+      "896741202c7ffff",
+      "89674120203ffff",
+      "896741202cfffff",
+      "89674120207ffff",
+      "89674120253ffff",
+      "896741202cbffff",
+      "8967412023bffff"
+    ],
+    "total_points": 8,
+    "avg_speed": 64.75,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 8
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674125c03ffff",
+      "89674125c0fffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 54.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "8967412111bffff",
+      "89674121103ffff",
+      "89674121113ffff"
+    ],
+    "total_points": 4,
+    "avg_speed": 35.33,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674125d0bffff",
+      "89674125d03ffff"
+    ],
+    "total_points": 4,
+    "avg_speed": 88.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674122997ffff",
+      "89674135a4bffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 72.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 4,
+    "hexagons": [
+      "8967412c483ffff",
+      "8967412c48fffff",
+      "8967412c413ffff",
+      "8967412c403ffff"
+    ],
+    "total_points": 4,
+    "avg_speed": 72.75,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 4
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "89674124333ffff",
+      "896741243abffff",
+      "89674124317ffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 55.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674c5a0b7ffff",
+      "89674c5a56bffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 58.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "8967412e407ffff",
+      "8967412e40fffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 65.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "8967412d58bffff",
+      "8967412d59bffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 83.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "896741244d7ffff",
+      "896741244c7ffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 102.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 6,
+    "hexagons": [
+      "896741266dbffff",
+      "896741266cbffff",
+      "89674135ba7ffff",
+      "896741266d3ffff",
+      "896741266d7ffff",
+      "896741266c7ffff"
+    ],
+    "total_points": 6,
+    "avg_speed": 57.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 6
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "8967412c4abffff",
+      "8967412c4a3ffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 66.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 6,
+    "hexagons": [
+      "89674120067ffff",
+      "89674120393ffff",
+      "8967412002fffff",
+      "89674120383ffff",
+      "89674120027ffff",
+      "8967412038bffff"
+    ],
+    "total_points": 7,
+    "avg_speed": 52.67,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 6
+    }
+  },
+  {
+    "size": 6,
+    "hexagons": [
+      "8967412eb43ffff",
+      "8967412eb47ffff",
+      "8967412eb73ffff",
+      "8967412eb63ffff",
+      "8967412eb6fffff",
+      "8967412cdd3ffff"
+    ],
+    "total_points": 6,
+    "avg_speed": 74.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 6
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674125557ffff",
+      "8967412551bffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 25.75,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "8967413590bffff",
+      "89674135957ffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 100.25,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "8967412eda3ffff",
+      "8967412edb3ffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 29.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "896741274cfffff",
+      "89674127457ffff",
+      "89674127443ffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 53.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 4,
+    "hexagons": [
+      "8967412c047ffff",
+      "8967412c07bffff",
+      "8967412c2b7ffff",
+      "8967412c2b3ffff"
+    ],
+    "total_points": 4,
+    "avg_speed": 49.75,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 4
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "8967412c457ffff",
+      "8967412c4cfffff"
+    ],
+    "total_points": 5,
+    "avg_speed": 65.59,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "89674125003ffff",
+      "89674125017ffff",
+      "896741250bbffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 52.33,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 5,
+    "hexagons": [
+      "89674c5b0c3ffff",
+      "89674c5b0cbffff",
+      "89674c5b0c7ffff",
+      "89674c5b01bffff",
+      "89674c5b013ffff"
+    ],
+    "total_points": 7,
+    "avg_speed": 57.6,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 5
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674125a83ffff",
+      "89674125a8bffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 23.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 6,
+    "hexagons": [
+      "8967412037bffff",
+      "8967412036bffff",
+      "89674120347ffff",
+      "89674120373ffff",
+      "89674121ca7ffff",
+      "89674120377ffff"
+    ],
+    "total_points": 6,
+    "avg_speed": 71.33,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 6
+    }
+  },
+  {
+    "size": 4,
+    "hexagons": [
+      "8967412c0c7ffff",
+      "8967412c08bffff",
+      "8967412c01bffff",
+      "8967412c083ffff"
+    ],
+    "total_points": 5,
+    "avg_speed": 70.38,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 4
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "89674120cc7ffff",
+      "89674120cd7ffff",
+      "89674120cd3ffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 61.33,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 5,
+    "hexagons": [
+      "8967412c02bffff",
+      "8967412c023ffff",
+      "8967412c393ffff",
+      "8967412c03bffff",
+      "8967412c033ffff"
+    ],
+    "total_points": 8,
+    "avg_speed": 54.3,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 5
+    }
+  },
+  {
+    "size": 4,
+    "hexagons": [
+      "8967412deb3ffff",
+      "8967412debbffff",
+      "8967412de87ffff",
+      "8967412deb7ffff"
+    ],
+    "total_points": 5,
+    "avg_speed": 82.25,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 4
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "8967412f543ffff",
+      "8967412f557ffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 74.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "8967412de37ffff",
+      "8967412deafffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 91.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674127383ffff",
+      "8967412739bffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 70.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "89674121933ffff",
+      "8967412193bffff",
+      "8967412192bffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 67.67,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "896741259a3ffff",
+      "896741259b7ffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 120.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 4,
+    "hexagons": [
+      "8967412cccfffff",
+      "8967412cc1bffff",
+      "8967412cc53ffff",
+      "8967412ccc3ffff"
+    ],
+    "total_points": 5,
+    "avg_speed": 87.38,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 4
+    }
+  },
+  {
+    "size": 6,
+    "hexagons": [
+      "896741273bbffff",
+      "896741273b3ffff",
+      "89674127317ffff",
+      "896741273abffff",
+      "89674127313ffff",
+      "89674127333ffff"
+    ],
+    "total_points": 7,
+    "avg_speed": 46.33,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 6
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "89674120e3bffff",
+      "89674120e23ffff",
+      "89674120e27ffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 57.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 4,
+    "hexagons": [
+      "89674c5a6c7ffff",
+      "89674c5a68bffff",
+      "89674c5a613ffff",
+      "89674c5a69bffff"
+    ],
+    "total_points": 5,
+    "avg_speed": 72.12,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 4
+    }
+  },
+  {
+    "size": 5,
+    "hexagons": [
+      "8967412ebbbffff",
+      "8967412ebabffff",
+      "8967412ebb3ffff",
+      "8967412eb07ffff",
+      "8967412ebb7ffff"
+    ],
+    "total_points": 6,
+    "avg_speed": 74.9,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 5
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "8967412552bffff",
+      "89674125523ffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 72.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "8967412e123ffff",
+      "8967412e12fffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 11.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 5,
+    "hexagons": [
+      "89674c5a067ffff",
+      "89674c5a063ffff",
+      "89674c5a39bffff",
+      "89674c5a02bffff",
+      "89674c5a3d7ffff"
+    ],
+    "total_points": 5,
+    "avg_speed": 79.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 5
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "89674124427ffff",
+      "8967412455bffff",
+      "89674124437ffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 91.33,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "89674c5b5afffff",
+      "89674c5a2dbffff",
+      "89674c5a2d3ffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 44.67,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674c5b64fffff",
+      "89674c5b67bffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 70.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "89674120c83ffff",
+      "89674120c97ffff",
+      "89674122b5bffff"
+    ],
+    "total_points": 4,
+    "avg_speed": 65.17,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 4,
+    "hexagons": [
+      "896741264dbffff",
+      "896741264cbffff",
+      "89674135927ffff",
+      "8967413592fffff"
+    ],
+    "total_points": 5,
+    "avg_speed": 98.12,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 4
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "8967412ce3bffff",
+      "8967412ce07ffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 94.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674124647ffff",
+      "8967412467bffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 69.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 4,
+    "hexagons": [
+      "89674121cbbffff",
+      "89674121cb3ffff",
+      "89674121cabffff",
+      "89674121c87ffff"
+    ],
+    "total_points": 5,
+    "avg_speed": 37.88,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 4
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "8967412191bffff",
+      "896741219c7ffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 79.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "89674121847ffff",
+      "89674121843ffff",
+      "8967412185bffff"
+    ],
+    "total_points": 4,
+    "avg_speed": 41.17,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "8967412ec8bffff",
+      "8967412ec9bffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 35.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "89674c5a293ffff",
+      "89674c5a283ffff",
+      "89674c5a667ffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 33.33,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "8967412293bffff",
+      "8967412290fffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 110.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 4,
+    "hexagons": [
+      "89674124e57ffff",
+      "89674124e1bffff",
+      "89674124ecfffff",
+      "89674124e0bffff"
+    ],
+    "total_points": 4,
+    "avg_speed": 53.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 4
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674120127ffff",
+      "89674120ccbffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 68.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "896741258bbffff",
+      "89674125817ffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 111.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "8967412c94bffff",
+      "8967412cb87ffff",
+      "8967412c943ffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 46.67,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674122963ffff",
+      "89674122967ffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 23.25,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 4,
+    "hexagons": [
+      "89674134a43ffff",
+      "89674134a47ffff",
+      "89674134a7bffff",
+      "89674134a6bffff"
+    ],
+    "total_points": 4,
+    "avg_speed": 54.25,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 4
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "8967412d1b3ffff",
+      "8967412d187ffff",
+      "8967412d197ffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 66.67,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "896741248c3ffff",
+      "896741248dbffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 72.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "8967412e99bffff",
+      "8967412e983ffff",
+      "8967412e98fffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 73.67,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "8967412667bffff",
+      "896741275b7ffff",
+      "89674126663ffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 56.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "89674126003ffff",
+      "89674126013ffff",
+      "89674126017ffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 104.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "8967412c873ffff",
+      "8967412c87bffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 60.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "89674120d0bffff",
+      "89674120d1bffff",
+      "89674120d57ffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 27.33,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674c5b203ffff",
+      "89674c5b213ffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 28.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674125d53ffff",
+      "89674125d5bffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 43.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "8967412f597ffff",
+      "8967412f583ffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 71.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "8967412c5b7ffff",
+      "8967412c5a7ffff",
+      "8967412ead3ffff"
+    ],
+    "total_points": 4,
+    "avg_speed": 54.67,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674120b2bffff",
+      "89674120b67ffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 96.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 5,
+    "hexagons": [
+      "8967412cc3bffff",
+      "8967412cc23ffff",
+      "8967412cc07ffff",
+      "8967412cc2bffff",
+      "8967412c893ffff"
+    ],
+    "total_points": 8,
+    "avg_speed": 75.73,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 5
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "8967412cc63ffff",
+      "8967412cc73ffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 24.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "8967412f007ffff",
+      "8967412f03bffff",
+      "8967412f02bffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 65.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "8967412598bffff",
+      "8967412598fffff",
+      "89674125917ffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 40.67,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674120d67ffff",
+      "89674120d77ffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 52.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674c5b467ffff",
+      "89674c5b46fffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 58.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "8967412e143ffff",
+      "8967412e14fffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 100.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "8967412f513ffff",
+      "8967412f503ffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 89.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674120837ffff",
+      "89674120827ffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 67.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674135d2fffff",
+      "89674135997ffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 17.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "8967412e647ffff",
+      "8967412e657ffff",
+      "8967412e67bffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 62.67,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "8967412703bffff",
+      "8967412702bffff",
+      "89674127023ffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 82.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 4,
+    "hexagons": [
+      "8967412e6afffff",
+      "8967412e6a7ffff",
+      "8967412e6abffff",
+      "8967412e0d3ffff"
+    ],
+    "total_points": 4,
+    "avg_speed": 45.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 4
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "8967412452bffff",
+      "89674124523ffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 81.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 6,
+    "hexagons": [
+      "89674125347ffff",
+      "89674125357ffff",
+      "89674125373ffff",
+      "896741253cfffff",
+      "896741253cbffff",
+      "89674125237ffff"
+    ],
+    "total_points": 6,
+    "avg_speed": 73.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 6
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "8967412633bffff",
+      "89674126307ffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 87.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "8967412e83bffff",
+      "8967412e877ffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 92.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "8967412ea03ffff",
+      "8967412ea0fffff",
+      "8967412ea3bffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 68.67,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674c5b43bffff",
+      "89674c5b433ffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 59.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "89674122b87ffff",
+      "89674122bbbffff",
+      "8967412294bffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 15.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 4,
+    "hexagons": [
+      "89674125c67ffff",
+      "8967412589bffff",
+      "896741258d7ffff",
+      "8967412588bffff"
+    ],
+    "total_points": 4,
+    "avg_speed": 51.25,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 4
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674121b63ffff",
+      "89674121b6fffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 75.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "8967412dd43ffff",
+      "8967412dd53ffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 23.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "8967412ea8fffff",
+      "8967412ea8bffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 66.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "8967412c0b7ffff",
+      "8967412c56bffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 63.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "89674c5b51bffff",
+      "89674c5b5c7ffff",
+      "89674c5b5d7ffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 67.67,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "8967412ee87ffff",
+      "8967412ee8fffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 45.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "8967412ec2bffff",
+      "8967412ec2fffff",
+      "8967412ec27ffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 37.67,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "89674127273ffff",
+      "8967412720fffff",
+      "89674127263ffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 59.33,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "89674121b07ffff",
+      "89674121b33ffff",
+      "89674121b17ffff"
+    ],
+    "total_points": 4,
+    "avg_speed": 93.33,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674125647ffff",
+      "89674125643ffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 87.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674126087ffff",
+      "8967412654bffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 50.75,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "8967412084bffff",
+      "8967412084fffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 30.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "89674121eb7ffff",
+      "89674121c6bffff",
+      "896741218d3ffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 72.33,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "8967412d9c3ffff",
+      "8967412d9cbffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 38.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674122b03ffff",
+      "89674122b07ffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 60.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "8967412ce43ffff",
+      "8967412ce4bffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 66.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "8967412585bffff",
+      "8967412584bffff",
+      "89674125853ffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 77.67,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "8967412e2b3ffff",
+      "8967412e2bbffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 55.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "8967412e58bffff",
+      "8967412e583ffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 47.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 4,
+    "hexagons": [
+      "8967412d137ffff",
+      "8967412dcdbffff",
+      "8967412d123ffff",
+      "8967412d13bffff"
+    ],
+    "total_points": 4,
+    "avg_speed": 51.75,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 4
+    }
+  },
+  {
+    "size": 4,
+    "hexagons": [
+      "89674124a9bffff",
+      "89674124ad7ffff",
+      "89674124ac7ffff",
+      "89674124ac3ffff"
+    ],
+    "total_points": 4,
+    "avg_speed": 71.25,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 4
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "89674125587ffff",
+      "89674125597ffff",
+      "89674125593ffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 69.33,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "8967412e20fffff",
+      "8967412e23bffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 109.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 4,
+    "hexagons": [
+      "8967412e2cfffff",
+      "8967412e253ffff",
+      "8967412e243ffff",
+      "8967412e24bffff"
+    ],
+    "total_points": 4,
+    "avg_speed": 29.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 4
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674120db3ffff",
+      "89674120da3ffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 20.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "8967412e087ffff",
+      "8967412e083ffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 104.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674122a47ffff",
+      "89674122a4fffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 39.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674121e83ffff",
+      "89674121e97ffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 91.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "8967412ed6bffff",
+      "8967412ed63ffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 92.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "8967412cd13ffff",
+      "8967412cdc7ffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 51.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "896741262cfffff",
+      "8967412621bffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 109.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "89674125aa7ffff",
+      "89674125aa3ffff",
+      "89674125bdbffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 54.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "8967412f3d7ffff",
+      "8967412f3c7ffff",
+      "8967412f06fffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 47.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "89674125a2bffff",
+      "89674125a2fffff",
+      "89674125b5bffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 65.67,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "89674c5b1b7ffff",
+      "89674c5a24fffff",
+      "89674c5b1b3ffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 86.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674126687ffff",
+      "8967412644bffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 63.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674124a2fffff",
+      "89674124a23ffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 67.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "8967412458fffff",
+      "896741245bbffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 44.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674125867ffff",
+      "8967412582bffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 81.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "89674120d7bffff",
+      "89674120d4fffff",
+      "89674120d4bffff"
+    ],
+    "total_points": 4,
+    "avg_speed": 37.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "896741256c7ffff",
+      "8967412561bffff",
+      "8967412568bffff"
+    ],
+    "total_points": 4,
+    "avg_speed": 39.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 5,
+    "hexagons": [
+      "8967412606bffff",
+      "896741262b7ffff",
+      "896741262a3ffff",
+      "8967412604fffff",
+      "89674126047ffff"
+    ],
+    "total_points": 5,
+    "avg_speed": 55.6,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 5
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674124347ffff",
+      "89674124357ffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 48.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674125097ffff",
+      "8967412555bffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 92.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674126033ffff",
+      "896741260afffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 23.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "8967412e953ffff",
+      "8967412e957ffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 84.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674c5a0cbffff",
+      "89674c5a0dbffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 66.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674125057ffff",
+      "896741250cfffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 54.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674c5a463ffff",
+      "89674c5a46fffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 71.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "8967412737bffff",
+      "89674127347ffff",
+      "89674127357ffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 74.33,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674125923ffff",
+      "89674125933ffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 40.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674120947ffff",
+      "8967412097bffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 38.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 3,
+    "hexagons": [
+      "8967412c207ffff",
+      "8967412c23bffff",
+      "8967412c277ffff"
+    ],
+    "total_points": 3,
+    "avg_speed": 84.33,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 3
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "8967412c3d7ffff",
+      "8967412c3c3ffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 68.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674125d83ffff",
+      "89674125d8bffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 86.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "896741203bbffff",
+      "896741203b3ffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 90.0,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  },
+  {
+    "size": 2,
+    "hexagons": [
+      "89674134aabffff",
+      "89674134abbffff"
+    ],
+    "total_points": 2,
+    "avg_speed": 71.5,
+    "density_composition": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 2
+    }
+  }
+]

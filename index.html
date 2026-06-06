@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>H3 Geospatial Demo | Kelvin Williams</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Courier New', monospace;
+            background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: white;
+        }
+        .container {
+            text-align: center;
+            padding: 40px;
+        }
+        h1 {
+            font-size: 2rem;
+            margin-bottom: 10px;
+            background: linear-gradient(90deg, #00ff88, #00aaff);
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+        }
+        .subtitle {
+            color: #888;
+            margin-bottom: 30px;
+        }
+        .card {
+            background: rgba(255,255,255,0.1);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            padding: 30px;
+            margin: 20px auto;
+            max-width: 500px;
+            border: 1px solid rgba(255,255,255,0.2);
+        }
+        a {
+            display: inline-block;
+            background: #00ff88;
+            color: #0a0a0a;
+            text-decoration: none;
+            padding: 12px 30px;
+            border-radius: 30px;
+            font-weight: bold;
+            margin-top: 20px;
+            transition: transform 0.2s;
+        }
+        a:hover {
+            transform: scale(1.05);
+        }
+        .tech-badge {
+            display: inline-block;
+            background: rgba(0,255,136,0.2);
+            padding: 5px 12px;
+            border-radius: 20px;
+            font-size: 12px;
+            margin: 5px;
+            border: 1px solid rgba(0,255,136,0.5);
+        }
+        footer {
+            margin-top: 40px;
+            font-size: 12px;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🗺️ H3 Geospatial Demo</h1>
+        <p class="subtitle">Uber H3 · Hexagonal Indexing · Density Clustering</p>
+        
+        <div class="card">
+            <p>📍 Interactive map with:</p>
+            <div style="margin: 15px 0;">
+                <span class="tech-badge">🟢 Hexagon Density</span>
+                <span class="tech-badge">🔴 HIGH/MEDIUM/LOW</span>
+                <span class="tech-badge">🔥 Heatmap Layer</span>
+                <span class="tech-badge">📍 GPS Points</span>
+                <span class="tech-badge">🔗 Neighbor Clusters</span>
+            </div>
+            
+            <a href="outputs/hexagon_density_map.html" target="_blank">
+                🗺️ Open Interactive Map →
+            </a>
+        </div>
+        
+        <footer>
+            Built with Python · H3 · Folium · Leaflet<br>
+            Kelvin Williams | Systems Engineer
+        </footer>
+    </div>
+</body>
+</html>
