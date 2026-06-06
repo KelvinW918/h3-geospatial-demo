@@ -1,12 +1,12 @@
 {
-  "buildCommand": "",
-  "outputDirectory": ".",
-  "installCommand": "",
-  "framework": null,
   "routes": [
     {
       "src": "/",
       "dest": "/index.html"
+    },
+    {
+      "src": "/mapa.html",
+      "dest": "/mapa.html"
     }
   ]
 }
