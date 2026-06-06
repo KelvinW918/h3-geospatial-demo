@@ -7,6 +7,10 @@
     {
       "src": "/mapa.html",
       "dest": "/mapa.html"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/$1"
     }
   ]
 }
