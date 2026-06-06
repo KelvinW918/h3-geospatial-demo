@@ -1,0 +1,33 @@
+{
+  "functions": {
+    "scripts/**/*.py": {
+      "excludeFiles": "**/*"
+    },
+    "data/**/*.json": {
+      "excludeFiles": "**/*"
+    },
+    "outputs/**/*.geojson": {
+      "excludeFiles": "**/*"
+    }
+  },
+  "builds": [
+    {
+      "src": "index.html",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "outputs/hexagon_density_map.html",
+      "use": "@vercel/static"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/",
+      "dest": "/index.html"
+    },
+    {
+      "src": "/map",
+      "dest": "/outputs/hexagon_density_map.html"
+    }
+  ]
+}
