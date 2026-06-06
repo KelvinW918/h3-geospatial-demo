@@ -1,15 +1,4 @@
 {
-  "functions": {
-    "scripts/**/*.py": {
-      "excludeFiles": "**/*"
-    },
-    "data/**/*.json": {
-      "excludeFiles": "**/*"
-    },
-    "outputs/**/*.geojson": {
-      "excludeFiles": "**/*"
-    }
-  },
   "builds": [
     {
       "src": "index.html",
