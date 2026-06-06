@@ -1,0 +1,8 @@
+h3==3.7.7
+folium==0.15.1
+branca==0.7.0
+shapely==2.0.4
+geopy==2.4.0
+faker==25.0.0
+numpy==1.26.3
+pandas==2.2.0
